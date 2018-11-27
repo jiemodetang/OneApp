@@ -1,0 +1,709 @@
+{
+    "res": 0,
+    "data": {
+      "id": "4961",
+      "weather": {
+        "city_name": "北京",
+        "date": "2018-11-21",
+        "temperature": "7",
+        "humidity": "13%",
+        "climate": "晴",
+        "wind_direction": "3级",
+        "hurricane": "西北风",
+        "icons": {
+          "day": "weather_icon_clear",
+          "night": "weather_icon_clear_night"
+        }
+      },
+      "date": "2018-11-21 06:00:00",
+      "content_list": [
+        {
+          "id": "16751",
+          "category": "0",
+          "display_category": "4",
+          "item_id": "2267",
+          "title": "摄影",
+          "forward": "四十岁后拥抱的所谓真理，其实是十四岁时愚蠢和偏激的变身。人的愚蠢就像白骨精，一生中至少要变了面目出现三次。",
+          "img_url": "http:\/\/image.wufazhuce.com\/FmhBAdvnaPhEpTQvH2m3wJxChEEl",
+          "like_count": 5475,
+          "post_date": "2018-11-21 06:00:00",
+          "last_update_date": "2018-11-20 17:59:09",
+          "author": {},
+          "video_url": "",
+          "audio_url": "",
+          "audio_platform": 2,
+          "start_video": "",
+          "has_reading": 0,
+          "volume": "VOL.2237",
+          "pic_info": "张克纯",
+          "words_info": "韩松落",
+          "subtitle": "",
+          "number": 0,
+          "serial_id": 0,
+          "serial_list": [],
+          "movie_story_id": 0,
+          "ad_id": 0,
+          "ad_type": 0,
+          "ad_pvurl": "",
+          "ad_linkurl": "",
+          "ad_makettime": "",
+          "ad_closetime": "",
+          "ad_share_cnt": "",
+          "ad_pvurl_vendor": "",
+          "content_id": "2267",
+          "content_type": "0",
+          "content_bgcolor": "",
+          "share_url": "http:\/\/m.wufazhuce.com\/one\/2267",
+          "share_info": {
+            "url": "http:\/\/m.wufazhuce.com\/one\/2267",
+            "image": "http:\/\/image.wufazhuce.com\/FmhBAdvnaPhEpTQvH2m3wJxChEEl",
+            "title": "VOL.2237",
+            "content": "四十岁后拥抱的所谓真理，其实是十四岁时愚蠢和偏激的变身。人的愚蠢就像白骨精，一生中至少要变了面目出现三次。 by 韩松落"
+          },
+          "share_list": {
+            "wx": {
+              "title": "",
+              "desc": "",
+              "link": "http:\/\/m.wufazhuce.com\/one\/2267?channel=singlemessage",
+              "imgUrl": "",
+              "audio": ""
+            },
+            "wx_timeline": {
+              "title": "",
+              "desc": "",
+              "link": "http:\/\/m.wufazhuce.com\/one\/2267?channel=timeline",
+              "imgUrl": "",
+              "audio": ""
+            },
+            "weibo": {
+              "title": "ONE一个 四十岁后拥抱的所谓真理，其实是十四岁时愚蠢和偏激的变身。人的愚蠢就像白骨精，一生中至少要变了面目出现三次。 by 韩松落——韩松落 下载ONE一个APP:http:\/\/weibo.com\/p\/100404157874",
+              "desc": "",
+              "link": "http:\/\/m.wufazhuce.com\/one\/2267?channel=weibo",
+              "imgUrl": "",
+              "audio": ""
+            },
+            "qq": {
+              "title": "",
+              "desc": "",
+              "link": "http:\/\/m.wufazhuce.com\/one\/2267?channel=qq",
+              "imgUrl": "",
+              "audio": ""
+            }
+          },
+          "tag_list": []
+        },
+        {
+          "id": "16753",
+          "category": "1",
+          "display_category": "1",
+          "item_id": "3571",
+          "title": "寂寞的愿望",
+          "forward": "结婚相当于你把恋爱时最喜欢的歌调成了闹钟铃声。",
+          "img_url": "http:\/\/image.wufazhuce.com\/FgYfkbD6mt-Jf80dsRiKsBBeH_2s",
+          "like_count": 3002,
+          "post_date": "2018-11-21 06:00:00",
+          "last_update_date": "2018-11-21 11:06:22",
+          "author": {
+            "user_id": "5529761",
+            "user_name": "短痛",
+            "desc": "写作者。著有《孤独的孩子，提着易碎的灯笼》。",
+            "wb_name": "@短tone",
+            "is_settled": "0",
+            "settled_type": "0",
+            "summary": "写作者。",
+            "fans_total": "1796",
+            "web_url": "http:\/\/image.wufazhuce.com\/Fna7qucK98hngcbtH1Ek9tzAHqL_"
+          },
+          "video_url": "",
+          "audio_url": "",
+          "audio_platform": 2,
+          "start_video": "",
+          "has_reading": 1,
+          "volume": 0,
+          "pic_info": "",
+          "words_info": "",
+          "subtitle": "",
+          "number": 0,
+          "serial_id": 0,
+          "serial_list": [],
+          "movie_story_id": 0,
+          "ad_id": 0,
+          "ad_type": 0,
+          "ad_pvurl": "",
+          "ad_linkurl": "",
+          "ad_makettime": "",
+          "ad_closetime": "",
+          "ad_share_cnt": "",
+          "ad_pvurl_vendor": "",
+          "content_id": "3571",
+          "content_type": "1",
+          "content_bgcolor": "#FFFFFF",
+          "share_url": "http:\/\/m.wufazhuce.com\/article\/3571",
+          "share_info": {
+            "url": "http:\/\/m.wufazhuce.com\/article\/3571",
+            "image": "http:\/\/image.wufazhuce.com\/FgYfkbD6mt-Jf80dsRiKsBBeH_2s",
+            "title": "寂寞的愿望 作者\/短痛",
+            "content": "结婚相当于你把恋爱时最喜欢的歌调成了闹钟铃声。"
+          },
+          "share_list": {
+            "wx": {
+              "title": "ONE STORY | 寂寞的愿望",
+              "desc": "文\/短痛 结婚相当于你把恋爱时最喜欢的歌调成了闹钟铃声。",
+              "link": "http:\/\/m.wufazhuce.com\/article\/3571?channel=singlemessage",
+              "imgUrl": "http:\/\/image.wufazhuce.com\/ONE_logo_120_square.png",
+              "audio": ""
+            },
+            "wx_timeline": {
+              "title": "ONE STORY | 寂寞的愿望",
+              "desc": "文\/短痛 结婚相当于你把恋爱时最喜欢的歌调成了闹钟铃声。",
+              "link": "http:\/\/m.wufazhuce.com\/article\/3571?channel=timeline",
+              "imgUrl": "http:\/\/image.wufazhuce.com\/ONE_logo_120_square.png",
+              "audio": ""
+            },
+            "weibo": {
+              "title": "ONE一个《ONE STORY | 寂寞的愿望》 文\/短痛： 结婚相当于你把恋爱时最喜欢的歌调成了闹钟铃声。 阅读全文：http:\/\/m.wufazhuce.com\/article\/3571?channel=weibo 下载ONE一个APP:http:\/\/weibo.com\/p\/100404157874",
+              "desc": "",
+              "link": "http:\/\/m.wufazhuce.com\/article\/3571?channel=weibo",
+              "imgUrl": "",
+              "audio": ""
+            },
+            "qq": {
+              "title": "寂寞的愿望",
+              "desc": "结婚相当于你把恋爱时最喜欢的歌调成了闹钟铃声。",
+              "link": "http:\/\/m.wufazhuce.com\/article\/3571?channel=qq",
+              "imgUrl": "http:\/\/image.wufazhuce.com\/ONE_logo_120_square.png",
+              "audio": ""
+            }
+          },
+          "tag_list": [
+            {
+              "id": "7",
+              "title": "ONE STORY"
+            }
+          ]
+        },
+        {
+          "id": "16755",
+          "category": "1",
+          "display_category": "1",
+          "item_id": "3572",
+          "title": "人类的悲喜一模一样",
+          "forward": "这样真好，就像我们主动和世界交手，塑造了自己的模样。",
+          "img_url": "http:\/\/image.wufazhuce.com\/FuqhZR_hIefHtE0OC4ohUrjGeO7o",
+          "like_count": 1529,
+          "post_date": "2018-11-21 06:00:00",
+          "last_update_date": "2018-11-21 02:15:25",
+          "author": {
+            "user_id": "4813757",
+            "user_name": "苏更生",
+            "desc": "「一个」App常驻作家，微信公众号：hulizhai",
+            "wb_name": "@假苏更生",
+            "is_settled": "0",
+            "settled_type": "0",
+            "summary": "「一个」App常驻作家，微信公众号：hulizhai",
+            "fans_total": "49805",
+            "web_url": "http:\/\/image.wufazhuce.com\/Fg_e6teZsb3lZ1QStYtdnAkh6bO8"
+          },
+          "video_url": "",
+          "audio_url": "",
+          "audio_platform": 2,
+          "start_video": "",
+          "has_reading": 0,
+          "volume": 0,
+          "pic_info": "",
+          "words_info": "",
+          "subtitle": "",
+          "number": 0,
+          "serial_id": 0,
+          "serial_list": [],
+          "movie_story_id": 0,
+          "ad_id": 0,
+          "ad_type": 0,
+          "ad_pvurl": "",
+          "ad_linkurl": "",
+          "ad_makettime": "",
+          "ad_closetime": "",
+          "ad_share_cnt": "",
+          "ad_pvurl_vendor": "",
+          "content_id": "3572",
+          "content_type": "1",
+          "content_bgcolor": "#FFFFFF",
+          "share_url": "http:\/\/m.wufazhuce.com\/article\/3572",
+          "share_info": {
+            "url": "http:\/\/m.wufazhuce.com\/article\/3572",
+            "image": "http:\/\/image.wufazhuce.com\/FuqhZR_hIefHtE0OC4ohUrjGeO7o",
+            "title": "人类的悲喜一模一样 作者\/苏更生",
+            "content": "这样真好，就像我们主动和世界交手，塑造了自己的模样。"
+          },
+          "share_list": {
+            "wx": {
+              "title": "苏更生专栏 | 人类的悲喜一模一样",
+              "desc": "文\/苏更生 这样真好，就像我们主动和世界交手，塑造了自己的模样。",
+              "link": "http:\/\/m.wufazhuce.com\/article\/3572?channel=singlemessage",
+              "imgUrl": "http:\/\/image.wufazhuce.com\/ONE_logo_120_square.png",
+              "audio": ""
+            },
+            "wx_timeline": {
+              "title": "苏更生专栏 | 人类的悲喜一模一样",
+              "desc": "文\/苏更生 这样真好，就像我们主动和世界交手，塑造了自己的模样。",
+              "link": "http:\/\/m.wufazhuce.com\/article\/3572?channel=timeline",
+              "imgUrl": "http:\/\/image.wufazhuce.com\/ONE_logo_120_square.png",
+              "audio": ""
+            },
+            "weibo": {
+              "title": "ONE一个《苏更生专栏 | 人类的悲喜一模一样》 文\/苏更生： 这样真好，就像我们主动和世界交手，塑造了自己的模样。 阅读全文：http:\/\/m.wufazhuce.com\/article\/3572?channel=weibo 下载ONE一个APP:http:\/\/weibo.com\/p\/100404157874",
+              "desc": "",
+              "link": "http:\/\/m.wufazhuce.com\/article\/3572?channel=weibo",
+              "imgUrl": "",
+              "audio": ""
+            },
+            "qq": {
+              "title": "人类的悲喜一模一样",
+              "desc": "这样真好，就像我们主动和世界交手，塑造了自己的模样。",
+              "link": "http:\/\/m.wufazhuce.com\/article\/3572?channel=qq",
+              "imgUrl": "http:\/\/image.wufazhuce.com\/ONE_logo_120_square.png",
+              "audio": ""
+            }
+          },
+          "tag_list": [
+            {
+              "id": "29",
+              "title": "苏更生专栏"
+            }
+          ]
+        },
+        {
+          "id": "16750",
+          "category": "2",
+          "display_category": "1",
+          "item_id": "788",
+          "title": "无常殿23",
+          "forward": "不过我始终相信，人的感情与好恶是一条无法用理性与利益得失来计算的底线。",
+          "img_url": "http:\/\/image.wufazhuce.com\/FvugpzM8Lpr6SYyPH8DR9dqT438m",
+          "like_count": 362,
+          "post_date": "2018-11-21 06:00:00",
+          "last_update_date": "2018-11-20 17:12:52",
+          "author": {
+            "user_id": "9715695",
+            "user_name": "孙未",
+            "desc": "上海作家，小说集《迷路人间》即将上市。",
+            "wb_name": "@孙未",
+            "is_settled": "0",
+            "settled_type": "0",
+            "summary": "上海作家。",
+            "fans_total": "1155",
+            "web_url": "http:\/\/image.wufazhuce.com\/Fi1mVoovOFa6-2BcUuUQIb-2nKzb"
+          },
+          "video_url": "",
+          "audio_url": "",
+          "audio_platform": 2,
+          "start_video": "",
+          "has_reading": 0,
+          "volume": 0,
+          "pic_info": "",
+          "words_info": "",
+          "subtitle": "连载：第23章",
+          "number": "23",
+          "serial_id": "65",
+          "serial_list": [
+            "745",
+            "747",
+            "749",
+            "750",
+            "752",
+            "754",
+            "756",
+            "758",
+            "760",
+            "762",
+            "764",
+            "766",
+            "768",
+            "770",
+            "772",
+            "774",
+            "776",
+            "778",
+            "780",
+            "782",
+            "784",
+            "786",
+            "788"
+          ],
+          "movie_story_id": 0,
+          "ad_id": 0,
+          "ad_type": 0,
+          "ad_pvurl": "",
+          "ad_linkurl": "",
+          "ad_makettime": "",
+          "ad_closetime": "",
+          "ad_share_cnt": "",
+          "ad_pvurl_vendor": "",
+          "content_id": "788",
+          "content_type": "2",
+          "content_bgcolor": "#FFFFFF",
+          "share_url": "http:\/\/m.wufazhuce.com\/serial\/788",
+          "share_info": {
+            "url": "http:\/\/m.wufazhuce.com\/serial\/788",
+            "image": "http:\/\/image.wufazhuce.com\/FvugpzM8Lpr6SYyPH8DR9dqT438m",
+            "title": "无常殿23 作者\/孙未",
+            "content": "不过我始终相信，人的感情与好恶是一条无法用理性与利益得失来计算的底线。"
+          },
+          "share_list": {
+            "wx": {
+              "title": "连载 | 无常殿23",
+              "desc": "文\/孙未 不过我始终相信，人的感情与好恶是一条无法用理性与利益得失来计算的底线。",
+              "link": "http:\/\/m.wufazhuce.com\/serial\/788?channel=singlemessage",
+              "imgUrl": "http:\/\/image.wufazhuce.com\/ONE_logo_120_square.png",
+              "audio": ""
+            },
+            "wx_timeline": {
+              "title": "连载 | 无常殿23",
+              "desc": "文\/孙未 不过我始终相信，人的感情与好恶是一条无法用理性与利益得失来计算的底线。",
+              "link": "http:\/\/m.wufazhuce.com\/serial\/788?channel=timeline",
+              "imgUrl": "http:\/\/image.wufazhuce.com\/ONE_logo_120_square.png",
+              "audio": ""
+            },
+            "weibo": {
+              "title": "ONE一个《连载 | 无常殿23》 文\/孙未： 不过我始终相信，人的感情与好恶是一条无法用理性与利益得失来计算的底线。 阅读全文：http:\/\/m.wufazhuce.com\/serial\/788?channel=weibo 下载ONE一个APP:http:\/\/weibo.com\/p\/100404157874",
+              "desc": "",
+              "link": "http:\/\/m.wufazhuce.com\/serial\/788?channel=weibo",
+              "imgUrl": "",
+              "audio": ""
+            },
+            "qq": {
+              "title": "无常殿23",
+              "desc": "不过我始终相信，人的感情与好恶是一条无法用理性与利益得失来计算的底线。",
+              "link": "http:\/\/m.wufazhuce.com\/serial\/788?channel=qq",
+              "imgUrl": "http:\/\/image.wufazhuce.com\/ONE_logo_120_square.png",
+              "audio": ""
+            }
+          },
+          "tag_list": []
+        },
+        {
+          "id": "16752",
+          "category": "3",
+          "display_category": "1",
+          "item_id": "2290",
+          "title": "想谈恋爱又得不到回应，怎么办？",
+          "forward": "祝那个人早日出现，打破你的纠结。而遇到那个人之前，先祝你与自己相处愉快。",
+          "img_url": "http:\/\/image.wufazhuce.com\/FnVLp_qrIeo67nyeSjcddg4hiGG2",
+          "like_count": 1638,
+          "post_date": "2018-11-21 06:00:00",
+          "last_update_date": "2018-11-20 21:19:48",
+          "author": {
+            "user_id": "4814790",
+            "user_name": "李松蔚 答 力力",
+            "desc": "李松蔚，大学讲师，心理咨询师。公众号：李松蔚（ID：therapistlsw）",
+            "wb_name": "@李松蔚PKU",
+            "is_settled": "0",
+            "settled_type": "0",
+            "summary": "大学讲师，心理咨询师。",
+            "fans_total": "1085",
+            "web_url": "http:\/\/image.wufazhuce.com\/FkE8x68taWccJXlH-1xx6sjfKh7V"
+          },
+          "video_url": "",
+          "audio_url": "",
+          "audio_platform": 2,
+          "start_video": "",
+          "has_reading": 0,
+          "volume": 0,
+          "pic_info": "",
+          "words_info": "",
+          "subtitle": "",
+          "number": 0,
+          "serial_id": 0,
+          "serial_list": [],
+          "movie_story_id": 0,
+          "ad_id": 0,
+          "ad_type": 0,
+          "ad_pvurl": "",
+          "ad_linkurl": "",
+          "ad_makettime": "",
+          "ad_closetime": "",
+          "ad_share_cnt": "",
+          "ad_pvurl_vendor": "",
+          "content_id": "2290",
+          "content_type": "3",
+          "content_bgcolor": "#FFFFFF",
+          "share_url": "http:\/\/m.wufazhuce.com\/question\/2290",
+          "share_info": {
+            "url": "http:\/\/m.wufazhuce.com\/question\/2290",
+            "image": "http:\/\/image.wufazhuce.com\/FnVLp_qrIeo67nyeSjcddg4hiGG2",
+            "title": "想谈恋爱又得不到回应，怎么办？",
+            "content": "生长在比较传统的家庭，母胎单身25年。现在身边的朋友都有了对象，而我连一点感情经历都没有。压力很大。很希望找到感觉对的那个人，但她要么是不喜欢我，要么是很合拍但有男朋友，没有什么回应，但我依旧会陷入其中，默默关注，对她很好，却又担心她发现后与我保持距离。在这种关系中我会各种迁就，她高兴我高兴，她低落我低落，然后就很难走出来，因此现在又很抗拒恋爱。很纠结，该怎么办呢？"
+          },
+          "share_list": {
+            "wx": {
+              "title": "问答 | 想谈恋爱又得不到回应，怎么办？",
+              "desc": "文\/李松蔚 祝那个人早日出现，打破你的纠结。而遇到那个人之前，先祝你与自己相处愉快。",
+              "link": "http:\/\/m.wufazhuce.com\/question\/2290?channel=singlemessage",
+              "imgUrl": "http:\/\/image.wufazhuce.com\/ONE_logo_120_square.png",
+              "audio": ""
+            },
+            "wx_timeline": {
+              "title": "问答 | 想谈恋爱又得不到回应，怎么办？",
+              "desc": "文\/李松蔚 祝那个人早日出现，打破你的纠结。而遇到那个人之前，先祝你与自己相处愉快。",
+              "link": "http:\/\/m.wufazhuce.com\/question\/2290?channel=timeline",
+              "imgUrl": "http:\/\/image.wufazhuce.com\/ONE_logo_120_square.png",
+              "audio": ""
+            },
+            "weibo": {
+              "title": "ONE一个《问答 | 想谈恋爱又得不到回应，怎么办？》 文\/李松蔚： 祝那个人早日出现，打破你的纠结。而遇到那个人之前，先祝你与自己相处愉快。 阅读全文：http:\/\/m.wufazhuce.com\/question\/2290?channel=weibo 下载ONE一个APP:http:\/\/weibo.com\/p\/100404157874",
+              "desc": "",
+              "link": "http:\/\/m.wufazhuce.com\/question\/2290?channel=weibo",
+              "imgUrl": "",
+              "audio": ""
+            },
+            "qq": {
+              "title": "想谈恋爱又得不到回应，怎么办？",
+              "desc": "祝那个人早日出现，打破你的纠结。而遇到那个人之前，先祝你与自己相处愉快。",
+              "link": "http:\/\/m.wufazhuce.com\/question\/2290?channel=qq",
+              "imgUrl": "http:\/\/image.wufazhuce.com\/ONE_logo_120_square.png",
+              "audio": ""
+            }
+          },
+          "tag_list": []
+        },
+        {
+          "id": "16748",
+          "category": "4",
+          "display_category": "1",
+          "item_id": "2837",
+          "title": "爱是想要触碰又收回的手，是未经触碰却在颤抖的心",
+          "forward": "我们不是天生神力、无所不能，与其撞得头破血流，不如在离墙还有几厘米的时候停下，不因失望，而是拒绝爱而不得带来的更多伤害。",
+          "img_url": "http:\/\/image.wufazhuce.com\/Fr1rIQxen5E2dJkWQgeZbBaAsOHv",
+          "like_count": 921,
+          "post_date": "2018-11-21 06:00:00",
+          "last_update_date": "2018-11-21 00:59:45",
+          "author": {
+            "user_id": "9874105",
+            "user_name": "Lauren Elle",
+            "desc": "美国独立唱作人",
+            "wb_name": "",
+            "is_settled": "0",
+            "settled_type": "0",
+            "summary": "美国独立唱作人",
+            "fans_total": "0",
+            "web_url": "http:\/\/image.wufazhuce.com\/FqtpjWLBqXghkjm_J94QYXvbA-2t"
+          },
+          "video_url": "",
+          "audio_url": "",
+          "audio_platform": 2,
+          "start_video": "",
+          "has_reading": 0,
+          "volume": 0,
+          "pic_info": "",
+          "words_info": "",
+          "subtitle": "专辑:I Wish My Heart Was a Stone",
+          "number": 0,
+          "serial_id": 0,
+          "serial_list": [],
+          "movie_story_id": 0,
+          "ad_id": 0,
+          "ad_type": 0,
+          "ad_pvurl": "",
+          "ad_linkurl": "",
+          "ad_makettime": "",
+          "ad_closetime": "",
+          "ad_share_cnt": "",
+          "ad_pvurl_vendor": "",
+          "content_id": "2837",
+          "content_type": "4",
+          "content_bgcolor": "#FFFFFF",
+          "share_url": "http:\/\/m.wufazhuce.com\/music\/2837",
+          "share_info": {
+            "url": "http:\/\/m.wufazhuce.com\/music\/2837",
+            "image": "http:\/\/image.wufazhuce.com\/Fr1rIQxen5E2dJkWQgeZbBaAsOHv",
+            "title": "「一个」音乐: Lauren Elle I Wish My Heart Was a Stone",
+            "content": "\n我们是从瑞士东部去往列支敦士登的，摄影器材塞了满满一包，稀稀拉拉几个人在苏黎世的火车站晃荡，大奔是唯一一个我在路上聊过几句话的摄影师，从上海到这儿空气忽冷忽热折腾了十多个小时，他的老鼻炎又犯了，边呼哧着粗气边问我要纸巾：“你一小姑娘跟着来遭什么罪啊。”也是，他们是职业摄影师，肩上扛着工作室的日程，我充其量算个发烧友。“就是想看一场阿尔卑斯的大雪。”话音未落，火车便卷着一阵冷风停在面前了。\n这个地方的气息清冷，人也不多，整个车厢也只有我们几个异国面孔。我手里牢牢抓着德语速成小册子，一边笨拙地说着对不起一边要走到座位里去，结果旁边的男人直接礼貌地站了起来：“You ok？”帮忙扶了一把我身后重重的包。窗外是陷在雾里的深绿色的重重森林，偶尔可见白色古堡，突然想起大学时候修过一门北欧神话，无奈只是为了凑学分，多半课程都睡了过去，唯一残存的记忆就是讲台上的英国老绅士永远备着的深蓝色手绢，讲哭的时候会擦擦眼睛。旁边的男人是土生土长的瓦杜兹市人，叫汉森，虽然母语是德语，但英语也会一点，这么看，我俩的英语好像一样蹩脚。汉森是个很有耐心的人，边比划边向我介绍窗外的建筑物，到下车时候，两个短暂旅途中的陌生人互道best wishes就分道扬镳了。大奔调侃，这一路就听你俩在那嘚吧了。我倒觉得挺好，能遇到这样一个可爱的人，也不错。\n越过莱茵河就到了列支敦士登，这个名字是“闪光的石头”，我踩在瓦杜兹的石板路上时却觉得跟上海也并无什么不同。心里一边吐槽自己的肤浅，一边跟着大家往酒店走。大商场周日都休息，好不容易找到一家私人小商店进去买了几张纪念邮票，小心翼翼掖进笔记本内页。大奔早早喊饿，豪气冲天地喊着要请大家吃晚饭，于是我们连行李都没放就开始沿街找饭店了。左不过瓦杜兹只有一条悠长的大街，好像永远走不到头似的，脚边的绿草嫩得要滴出水来，空气却是要把人冻得跳脚的温度，我边搓手边从包里翻出一条羊绒围巾，当披肩裹了好几层。“吃Fondue吧，这么冷的天。”前面几个摄影师说着就走进了一家门口标有瑞士招牌菜的小餐馆。\n奶酪特有的淡淡腥臭在逼仄的空间里伴着雾气逐渐升腾起来，我接过一个女摄影师递来的足贴垫进鞋里，整个人瞬间松弛了不少，也开始跟大家天南海北地乱聊了起来，他们都是一个圈子里的，之前或多或少有过交集，于是谈话的焦点最后还是转移到了我身上。“来看雪，一听就是有故事啊。”女摄影师友好又暧昧地笑着看我，我把铁杯子里的酒喝完才缓缓开口：“一个很喜欢的人，不能再喜欢了，以前说要来一起滑雪的，他来不了，那就我来呗。”不知是什么酒，舌尖竟留下一股强烈的化学药剂的味道。大概是听我说得隐晦，大家就哈哈一笑又把话题岔了过去，几个人没一会儿就吃了半锅奶酪，我倒是偏爱kasknopfle，很有嚼劲的小面团配着焦糖洋葱，再一卷奶酪，口感极甜又醇厚，这盘菜几乎是我一个人吃下肚子的。“Hi”肩膀微重，原来是白天见过的汉森，这个城市的确是小。\n摄影师们要拍夜景，于是吃完晚饭没有歇脚即刻又要启程。汉森也要连夜返回瑞士，于是干脆跟我们一起，听我磕磕绊绊说完这一路他惊讶地问，你不累吗？颠沛近二十个小时，同行的人都快要体力透支，我却无丝毫倦意。准确地说，从上飞机那一刻起，我就希望这是一趟无穷无尽的旅程，即使某个什么都不想的时刻马上就要跌入一个无声黑洞，下一秒尖锐的陌生感也会刺破这层混沌，时刻清醒着我。他哈哈大笑，说这大概是一种自我折磨，我看着窗外陷落在黑夜里的密林点头：“I deserve it.” \n一路上隧道连着隧道，最长的一条隧道我们竟然走了七分钟。汉森打开随身带的小蓝牙音箱，给我们放Agnes Obel的歌，北欧女歌神，以前似乎在某本小众杂志上看过，再想一想，原来还是那个人随口一提的杂志，我第二天就去买了。他总喜欢研究些文学音乐地理，整个人好像一条永远也走不完的长街。追逐一个优秀的人总是很疲惫，尤其是与他相距甚远的时候，格外疲惫。从我当上他的助理时，这种体力透支的奔跑好像就已经开始，他的主业是摄影，从不拍人。应聘的时候被问到为什么要选这个工作，我想了想只说了一句：“给钱多。”后来他跟我说，听惯了热爱与梦想，偶尔来一个浑身盘绕着烟火气的人倒也好，起码对他的世界不感兴趣也就少些麻烦。他的生活虽忙却也极致简单，每周一三五去工作室修片，二四六随便安排，每年夏季和冬季会有三个月的时间满世界跑，我只是国内助理，多年来我们之间的隔断就止于机场安检。\n我们的运气还不错，刚到阿尔卑斯山就下起了新鲜的雪，汽车越爬越高，直到两边车窗外都结了一层厚厚的冰花才停下来。汉森贴心地帮我从后座下面捡出帽子递给我，大奔的鼻炎已经到了无法遏制的状态，一个人在车里歇着，准备后半夜再出来。我们踩在雪里越走越远，直到回头只能看见车窗里泄出的模糊的橘色灯光。趁着摄影师们架器材，我跟汉森在不远处踢雪玩，他嫌英语费劲，干脆用翻译软件打字聊。原来他的上一个女友是韩国人，所以就对亚洲人有一种莫名的亲切，还问我他是不是过于热情了，我笑着摆手。从喜欢上那个人之后，我的生活好像无声之间发生了翻天覆地的变化，为了能接上他的寥寥数语，甚至妄想于获得一点点青睐，我开始认真学习希腊罗马，定期买地理杂志恶补，那段时间连曲库都是小型音乐会的风格。沟通逐渐变多，默契也在积年累月的相处中变成了你一个眼神我就懂的地步，他常常叹气，你要是英语过六级我都能带着你出国了。无奈我语言系统好像是天生戈壁滩，怎么也开不了窍。\n“快过来暖暖。”女摄影师朝我招手，原来他们已经把煤油炉点起来了，好像还在煮泡面。汉森连声夸赞好吃，我只舀了些热汤捧在手心：“今晚会有流星吗？”“应该月份不到，真冷，你们一会儿受不住了就上车去吧。”\n“有时间应该一起去阿尔卑斯滑雪，不过在之前你得去瑞士滑雪学校拿到合格证。”我们经常在下午闲聊，一个收拾着满地乱七八糟的作品，一个在玻璃隔间里盯着电脑敲鼠标，不知谁开的话头，几句就聊到滑雪了。“我中学时候在滑雪课上摔断过锁骨，就再也不敢碰这个运动了。”他爽朗地笑了几声：“不应该，你是不会放弃的那种人，跟我很像，这点事不在话下。”我笑着揶揄他，他认真起来：“我没开玩笑，真的，这两年你进步很多很多，是我迄今为止遇见的最优秀的助理。”他很少评价一个人，此时看着那张诚恳的面庞我反倒不知说什么好了，于是佯装不在意，顺手抚了抚耳边的碎发。快门声隐隐响起，我惊讶地抬头，他不好意思地笑了一下，很好看。\n赛林格在《破碎故事之心》里说，有人认为爱是性，是婚姻，是清晨六点的吻，是一堆孩子，也许真是这样，但你知道吗，我觉得爱是想触碰但又收回手。这是一个我永远不敢再读第二遍的文章。在无数次端起给他冲好的美式后，我不断提醒自己，掌心有温度，爱人在咫尺，所以这世界上就再也没有无法到达的距离，直到知道他另有所爱那一刻，我才知道，故事里破碎的那颗心到底是怎么回事。我甚至都没见过那个女人，在我们共处的无数个瞬间里也不曾收到丝毫关于她的讯息，他果然从没变过，“我需要的助理，是对我的世界没什么兴趣也不添麻烦的人。”他们的进展很快，在我还在对着桌上那封辞呈纠结的时候，他们就在异国办理了结婚，原来爱情发生在我从未参与过的那六个月里啊，真令人灰心丧气，我们甚至都算不上情敌，因为共同爱的那个人向来也只对另一方敞开心门。\n“那你来瑞士，究竟为了什么呢？”汉森问我，我仔细想了想：“不为什么，画个句号吧。”豪格斯拉格向他的莱斯特小姐说完爱是收回手，他们便在第三大道下车各奔东西，再不相干。我掬了满满一捧雪，将脸深深埋在掌心，冰冷的刺痛感从心脏透过五官涌了上来。这段拖沓的深情到头来无处安放，暗恋不是暗恋，崇拜不是崇拜，就像一个在深夜奔跑的人，看不到尽头也看不到光亮，凭着一腔热血就走到这里，再没力气追赶了。再想触碰，也不得不收回手，要知道，我们不是天生神力无所不能，与其撞得头破血流，不如在离墙还有几厘米的时候停下，不因失望，而是拒绝爱而不得带来的更多伤害。\n最后的辞职信里，我什么都没说，他让我等等，然后从抽屉里拿出了一张照片：“那天拍完你后，怎么修都觉得不行，还是原本的样子好。”那上面的少女羞涩垂首，夕阳摇晃在发梢之间，面目有些不真切。他欣赏的应该也是这样一个面目不清的人吧，追逐了两年多，硬是把自己追成了他的影子，却忘了昔日去一次肯德基吃全家桶都能幸福得乐出声来的自己，是从来都没喜欢过西欧文学和世界地理的人啊。\n原本还打算跟大家继续前进，以前就听他说过地势越高，针林就长得越稀疏，适合中和雪景。无奈脚下鞋袜都被浸湿了，滑腻腻冷冰冰地粘在脚上难受得很，我缩进车后座，探起身子打开暖风瞬间舒服了不少，整个人窝进乱糟糟的棉服里取暖，汉森已经在副驾睡着了，有隐隐的鼾声。身边一切触手可及的东西都是有着真实质感的，终于长长舒了一口气，困意来袭前的几分钟，不知是我的幻觉还是真的，余光里的夜空好像滑过了几枚带着尾巴的流星。\n再过几天就要回国了吧，我还是我，一个爱钱偶尔吃垃圾食品睡睡懒觉追八点档狗血剧目的女子，那段虚浮的岁月已经融化，留下一个更坚定的自己，或许他有一句话说对了吧，我是那种不会放弃的人，那从此以后，就先不放弃自己好了。\n文\/江不泊\n"
+          },
+          "share_list": {
+            "wx": {
+              "title": "音乐 | 爱是想触碰，但又收回手",
+              "desc": "文\/江不泊 我是那种不会放弃的人，那从此以后，就先不放弃自己好了。",
+              "link": "http:\/\/m.wufazhuce.com\/music\/2837?channel=singlemessage",
+              "imgUrl": "http:\/\/image.wufazhuce.com\/ONE_logo_120_square.png",
+              "audio": ""
+            },
+            "wx_timeline": {
+              "title": "音乐 | 爱是想触碰，但又收回手",
+              "desc": "文\/江不泊 我是那种不会放弃的人，那从此以后，就先不放弃自己好了。",
+              "link": "http:\/\/m.wufazhuce.com\/music\/2837?channel=timeline",
+              "imgUrl": "http:\/\/image.wufazhuce.com\/ONE_logo_120_square.png",
+              "audio": ""
+            },
+            "weibo": {
+              "title": "ONE一个《音乐 | 爱是想触碰，但又收回手》 文\/江不泊： 我是那种不会放弃的人，那从此以后，就先不放弃自己好了。 阅读全文：http:\/\/m.wufazhuce.com\/music\/2837?channel=weibo 下载ONE一个APP:http:\/\/weibo.com\/p\/100404157874",
+              "desc": "",
+              "link": "http:\/\/m.wufazhuce.com\/music\/2837?channel=weibo",
+              "imgUrl": "",
+              "audio": ""
+            },
+            "qq": {
+              "title": "爱是想触碰，但又收回手",
+              "desc": "我是那种不会放弃的人，那从此以后，就先不放弃自己好了。",
+              "link": "http:\/\/m.wufazhuce.com\/music\/2837?channel=qq",
+              "imgUrl": "http:\/\/image.wufazhuce.com\/ONE_logo_120_square.png",
+              "audio": ""
+            }
+          },
+          "tag_list": []
+        },
+        {
+          "id": "16754",
+          "category": "5",
+          "display_category": "1",
+          "item_id": "1613",
+          "title": "你还能找到童年的自己吗?",
+          "forward": "不要被生活压力压垮，认真对待周遭的人和事。",
+          "img_url": "http:\/\/image.wufazhuce.com\/FgUHwxqkrJIAaCURom4D08n9r-d-",
+          "like_count": 0,
+          "post_date": "2018-11-21 06:00:00",
+          "last_update_date": "2018-11-20 22:30:59",
+          "author": {
+            "user_id": "9448908",
+            "user_name": "天外来客",
+            "desc": "作者。",
+            "wb_name": "",
+            "is_settled": "0",
+            "settled_type": "0",
+            "summary": "作者。",
+            "fans_total": "178",
+            "web_url": "http:\/\/image.wufazhuce.com\/Fq-lx07oORH9L2mJHEiI_109etg3"
+          },
+          "video_url": "",
+          "audio_url": "",
+          "audio_platform": 2,
+          "start_video": "",
+          "has_reading": 0,
+          "volume": 0,
+          "pic_info": "",
+          "words_info": "",
+          "subtitle": "电影:克里斯托弗·罗宾",
+          "number": 0,
+          "serial_id": 0,
+          "serial_list": [],
+          "movie_story_id": "4596",
+          "ad_id": 0,
+          "ad_type": 0,
+          "ad_pvurl": "",
+          "ad_linkurl": "",
+          "ad_makettime": "",
+          "ad_closetime": "",
+          "ad_share_cnt": "",
+          "ad_pvurl_vendor": "",
+          "content_id": "1613",
+          "content_type": "5",
+          "content_bgcolor": "#FFFFFF",
+          "share_url": "http:\/\/m.wufazhuce.com\/movie\/1613",
+          "share_info": {
+            "url": "http:\/\/m.wufazhuce.com\/movie\/1613",
+            "image": "http:\/\/image.wufazhuce.com\/FgUHwxqkrJIAaCURom4D08n9r-d-",
+            "title": "「一个」电影: 克里斯托弗·罗宾",
+            "content": "\n在电影《克里斯托弗·罗宾》拍摄前，没有人会想到小熊维尼真人版的导演会是马克·福斯特，这位导演最著名的电影是灾难片《僵尸世界大战》，而更让人意外的是伊万·麦克格雷格担任了男主角，大家对他的印象还停留在《猜火车》里那个疯狂和叛逆的青年，大家本以为这部电影会和维尼的上一部电影《再见，克里斯托弗·罗宾》一样为大家展现出一些童话的黑暗元素，但是等到电影真正上映时，大家发现这是一部完完全全美好的电影。\n伊万·麦克格雷格在采访中表示自己的童年跟克里斯托弗·罗宾很像，在一个小镇上长大，镇子建在山坡上，山坡上方有一片林区，他的童年生活有很大一部分时间都是在那片林子里度过的，他和伙伴们会在林子里玩游戏，虽然他现在已经记不清他们在林子里到底都玩了些什么，但他记得那时他们过得很愉快。\n\n电影中童年的克里斯托弗·罗宾也有一片这样的林区叫百亩森林，那里面住着他想象中的伙伴维尼、跳跳虎、屹耳、小猪等，整个夏天他都会和这些伙伴们一起度过，维尼熊总是带着伙伴们一起去找克里斯托弗·罗宾，然后克里斯托弗·罗宾会说：“我们来做一点事吧。”维尼会回答：“我不介意做点事。”他们会一起在外面度过美好的一天。\n不可避免地，克里斯托弗·罗宾长大了，他必须离开百亩森林，离别的时候克里斯托弗·罗宾向维尼保证：“我绝对不会忘记你，到100岁也不会忘。”\n\n接着克里斯托弗·罗宾进入了寄宿学校，他没有了伙伴，只能靠画维尼熊来填补心中的空缺，在那里不幸的事情发生了，他的父亲去世，他成为了家中唯一的男人，于是他明白自己不能再当小孩了。很快，他遇到了自己喜欢的人，恋爱、结婚、生子，去远方参加战争。战争结束后，女儿已经长大了，为了全家的生活，他到一个旅行箱公司工作，接着工作把他填满了，他违背了当初与维尼的誓言，也渐渐失去了自己人生的方向，他几乎再也没有想起维尼。\n另一边，没有克里斯托弗·罗宾的百亩森林整日乌云密布，有一天在大雾中维尼在森林里找不到其他伙伴了，迷迷糊糊的维尼穿过树洞竟然来到了伦敦，也就是克里斯托弗·罗宾现在居住的地方。\n\n维尼的到来并没有让长大后的克里斯托弗·罗宾感到开心，此时的他正陷入公司的裁员计划中，他甚至觉得维尼就是个麻烦，他决定回趟老家，将维尼重新送回百亩森林，在火车上克里斯托弗·罗宾显得极不耐烦，而维尼还想着他们的关系能跟从前一样。\n克里斯托弗·罗宾回到了百亩森林，在维尼的央求下，克里斯托弗·罗宾决定帮维尼找寻丢失掉的小伙伴，他们却在寻找的过程中争吵起来，维尼失望地离开了克里斯托弗·罗宾，而迷路的克里斯托弗·罗宾掉进坑中，这时候百亩森林下起了一场倾盆大雨。\n\n天晴后克里斯托弗·罗宾从坑里爬了出来，他遇到了那些丢失的动物，动物们却不认识他了，动物们错把他当成森林里的长鼻怪，为了证明自己的身份，克里斯托弗·罗宾又像童年时一样和动物玩了起来，他渐渐有了笑容，他变得活泼友善，他终于知道怎么变得开心了，这个时候他突然想起他和维尼告别的地方，他知道维尼肯定在那里等着他。\n\n克里斯托弗·罗宾找到维尼后，他向曾经的伙伴们道歉，维尼告诉他：“我很高兴我在这里等你，只要克里斯托弗·罗宾出来玩，这里就一定是个大晴天，你还是从前的你。”\n度过美好短暂的一天后，克里斯托弗·罗宾不得不重新回到现实世界，那里还有一堆等着他解决的问题，维尼和他的小伙伴们决定也去伦敦，陪着克里斯托弗·罗宾，去帮助他走出困境。\n\n第一次世界大战结束之后，作家艾伦·米尔恩创作了风靡全球的童书《小熊维尼》，其中克里斯托弗·罗宾是他儿子的本名，小熊维尼的出现安抚了第一次世界大战中人们受伤的心灵，帮助那些因为战争迷失自己的人们重新找到人生的方向。而电影《克里斯托弗·罗宾》更将小熊维尼推向理想化，将其演绎成完美的童话故事，提醒着人们不要被生活压力压垮，认真对待周遭的人和事。\n有意思的是在演完《克里斯托弗·罗宾》后，伊万·麦克格雷格决定跟主角一样暂停工作，多陪着家人和朋友，享受生活，希望大家也能借助这部电影，走出迷茫的境地，找回过去那个乐观的自己。\n"
+          },
+          "share_list": {
+            "wx": {
+              "title": "电影 | 你还能找到童年的自己吗?",
+              "desc": "文\/天外来客 不要被生活压力压垮，认真对待周遭的人和事。",
+              "link": "http:\/\/m.wufazhuce.com\/movie\/1613?channel=singlemessage",
+              "imgUrl": "http:\/\/image.wufazhuce.com\/ONE_logo_120_square.png",
+              "audio": ""
+            },
+            "wx_timeline": {
+              "title": "电影 | 你还能找到童年的自己吗?",
+              "desc": "文\/天外来客 不要被生活压力压垮，认真对待周遭的人和事。",
+              "link": "http:\/\/m.wufazhuce.com\/movie\/1613?channel=timeline",
+              "imgUrl": "http:\/\/image.wufazhuce.com\/ONE_logo_120_square.png",
+              "audio": ""
+            },
+            "weibo": {
+              "title": "ONE一个《电影 | 你还能找到童年的自己吗?》 文\/天外来客： 不要被生活压力压垮，认真对待周遭的人和事。 阅读全文：http:\/\/m.wufazhuce.com\/movie\/1613?channel=weibo 下载ONE一个APP:http:\/\/weibo.com\/p\/100404157874",
+              "desc": "",
+              "link": "http:\/\/m.wufazhuce.com\/movie\/1613?channel=weibo",
+              "imgUrl": "",
+              "audio": ""
+            },
+            "qq": {
+              "title": "你还能找到童年的自己吗?",
+              "desc": "不要被生活压力压垮，认真对待周遭的人和事。",
+              "link": "http:\/\/m.wufazhuce.com\/movie\/1613?channel=qq",
+              "imgUrl": "http:\/\/image.wufazhuce.com\/ONE_logo_120_square.png",
+              "audio": ""
+            }
+          },
+          "tag_list": []
+        }
+      ],
+      "menu": {
+        "vol": "2237",
+        "list": [
+          {
+            "content_type": "1",
+            "content_id": "3571",
+            "title": "寂寞的愿望",
+            "tag": {
+              "id": "7",
+              "title": "ONE STORY"
+            }
+          },
+          {
+            "content_type": "1",
+            "content_id": "3572",
+            "title": "人类的悲喜一模一样",
+            "tag": {
+              "id": "29",
+              "title": "苏更生专栏"
+            }
+          },
+          {
+            "content_type": "2",
+            "content_id": "788",
+            "serial_list": [
+              "745",
+              "747",
+              "749",
+              "750",
+              "752",
+              "754",
+              "756",
+              "758",
+              "760",
+              "762",
+              "764",
+              "766",
+              "768",
+              "770",
+              "772",
+              "774",
+              "776",
+              "778",
+              "780",
+              "782",
+              "784",
+              "786",
+              "788"
+            ],
+            "title": "无常殿23"
+          },
+          {
+            "content_type": "3",
+            "content_id": "2290",
+            "title": "想谈恋爱又得不到回应，怎么办？"
+          },
+          {
+            "content_type": "4",
+            "content_id": "2837",
+            "title": "爱是想要触碰又收回的手，是未经触碰却在颤抖的心"
+          },
+          {
+            "content_type": "5",
+            "content_id": "1613",
+            "title": "你还能找到童年的自己吗?"
+          }
+        ]
+      }
+    }
+  }

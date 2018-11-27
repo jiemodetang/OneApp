@@ -1,0 +1,577 @@
+{
+  "res": 0,
+  "data": {
+    "id": "4960",
+    "weather": {
+      "city_name": "北京",
+      "date": "2018-11-20",
+      "temperature": "9",
+      "humidity": "22%",
+      "climate": "多云",
+      "wind_direction": "3级",
+      "hurricane": "东北风",
+      "icons": {
+        "day": "weather_icon_cloudy",
+        "night": "weather_icon_cloudy_night"
+      }
+    },
+    "date": "2018-11-20 06:00:00",
+    "content_list": [
+      {
+        "id": "16747",
+        "category": "0",
+        "display_category": "4",
+        "item_id": "2266",
+        "title": "摄影",
+        "forward": "感到拥有的一切在流逝，这是一件可怕的事。如果没有什么永恒的东西，人们就只能用寻找的愿望与这一切联系在一起。",
+        "img_url": "http:\/\/image.wufazhuce.com\/Fv1CwhGQ7TRK4nPngVs6RbIv_kR5",
+        "like_count": 7410,
+        "post_date": "2018-11-20 06:00:00",
+        "last_update_date": "2018-11-19 21:56:29",
+        "author": {},
+        "video_url": "",
+        "audio_url": "",
+        "audio_platform": 2,
+        "start_video": "",
+        "has_reading": 0,
+        "volume": "VOL.2236",
+        "pic_info": "杨齐风",
+        "words_info": "《马尔多罗之歌》",
+        "subtitle": "",
+        "number": 0,
+        "serial_id": 0,
+        "serial_list": [],
+        "movie_story_id": 0,
+        "ad_id": 0,
+        "ad_type": 0,
+        "ad_pvurl": "",
+        "ad_linkurl": "",
+        "ad_makettime": "",
+        "ad_closetime": "",
+        "ad_share_cnt": "",
+        "ad_pvurl_vendor": "",
+        "content_id": "2266",
+        "content_type": "0",
+        "content_bgcolor": "",
+        "share_url": "http:\/\/m.wufazhuce.com\/one\/2266",
+        "share_info": {
+          "url": "http:\/\/m.wufazhuce.com\/one\/2266",
+          "image": "http:\/\/image.wufazhuce.com\/Fv1CwhGQ7TRK4nPngVs6RbIv_kR5",
+          "title": "VOL.2236",
+          "content": "感到拥有的一切在流逝，这是一件可怕的事。如果没有什么永恒的东西，人们就只能用寻找的愿望与这一切联系在一起。 from 《马尔多罗之歌》"
+        },
+        "share_list": {
+          "wx": {
+            "title": "",
+            "desc": "",
+            "link": "http:\/\/m.wufazhuce.com\/one\/2266?channel=singlemessage",
+            "imgUrl": "",
+            "audio": ""
+          },
+          "wx_timeline": {
+            "title": "",
+            "desc": "",
+            "link": "http:\/\/m.wufazhuce.com\/one\/2266?channel=timeline",
+            "imgUrl": "",
+            "audio": ""
+          },
+          "weibo": {
+            "title": "ONE一个 感到拥有的一切在流逝，这是一件可怕的事。如果没有什么永恒的东西，人们就只能用寻找的愿望与这一切联系在一起。 from 《马尔多罗之歌》——《马尔多罗之歌》 下载ONE一个APP:http:\/\/weibo.com\/p\/100404157874",
+            "desc": "",
+            "link": "http:\/\/m.wufazhuce.com\/one\/2266?channel=weibo",
+            "imgUrl": "",
+            "audio": ""
+          },
+          "qq": {
+            "title": "",
+            "desc": "",
+            "link": "http:\/\/m.wufazhuce.com\/one\/2266?channel=qq",
+            "imgUrl": "",
+            "audio": ""
+          }
+        },
+        "tag_list": []
+      },
+      {
+        "id": "16744",
+        "category": "1",
+        "display_category": "1",
+        "item_id": "3570",
+        "title": "凤凰于飞",
+        "forward": "世事没有稳定的走向，在你松懈的某一刻，或你以为生活将永远温和地顺流而下时，猝不及防的急转弯便来到了眼前。",
+        "img_url": "http:\/\/image.wufazhuce.com\/Fk31JN-V3dx6M0ZObg8ezQRKqpEF",
+        "like_count": 1430,
+        "post_date": "2018-11-20 06:00:00",
+        "last_update_date": "2018-11-20 13:58:18",
+        "author": {
+          "user_id": "4814646",
+          "user_name": "三三",
+          "desc": "律师，青年作者，一个全年出现的圣诞老人。",
+          "wb_name": "@三三坡",
+          "is_settled": "0",
+          "settled_type": "0",
+          "summary": "律师，青年作者，一个全年出现的圣诞老人。",
+          "fans_total": "859",
+          "web_url": "http:\/\/image.wufazhuce.com\/Frilgx0XpHkpgggE2jzQM0rHbnVB"
+        },
+        "video_url": "",
+        "audio_url": "",
+        "audio_platform": 2,
+        "start_video": "",
+        "has_reading": 1,
+        "volume": 0,
+        "pic_info": "",
+        "words_info": "",
+        "subtitle": "",
+        "number": 0,
+        "serial_id": 0,
+        "serial_list": [],
+        "movie_story_id": 0,
+        "ad_id": 0,
+        "ad_type": 0,
+        "ad_pvurl": "",
+        "ad_linkurl": "",
+        "ad_makettime": "",
+        "ad_closetime": "",
+        "ad_share_cnt": "",
+        "ad_pvurl_vendor": "",
+        "content_id": "3570",
+        "content_type": "1",
+        "content_bgcolor": "#FFFFFF",
+        "share_url": "http:\/\/m.wufazhuce.com\/article\/3570",
+        "share_info": {
+          "url": "http:\/\/m.wufazhuce.com\/article\/3570",
+          "image": "http:\/\/image.wufazhuce.com\/Fk31JN-V3dx6M0ZObg8ezQRKqpEF",
+          "title": "凤凰于飞 作者\/三三",
+          "content": "我在一个多维构架的世界中游荡，迷雾重重，但这恰是它本身。"
+        },
+        "share_list": {
+          "wx": {
+            "title": "阅读 | 凤凰于飞",
+            "desc": "文\/三三 我在一个多维构架的世界中游荡，迷雾重重，但这恰是它本身。",
+            "link": "http:\/\/m.wufazhuce.com\/article\/3570?channel=singlemessage",
+            "imgUrl": "http:\/\/image.wufazhuce.com\/ONE_logo_120_square.png",
+            "audio": ""
+          },
+          "wx_timeline": {
+            "title": "阅读 | 凤凰于飞",
+            "desc": "文\/三三 我在一个多维构架的世界中游荡，迷雾重重，但这恰是它本身。",
+            "link": "http:\/\/m.wufazhuce.com\/article\/3570?channel=timeline",
+            "imgUrl": "http:\/\/image.wufazhuce.com\/ONE_logo_120_square.png",
+            "audio": ""
+          },
+          "weibo": {
+            "title": "ONE一个《阅读 | 凤凰于飞》 文\/三三： 我在一个多维构架的世界中游荡，迷雾重重，但这恰是它本身。 阅读全文：http:\/\/m.wufazhuce.com\/article\/3570?channel=weibo 下载ONE一个APP:http:\/\/weibo.com\/p\/100404157874",
+            "desc": "",
+            "link": "http:\/\/m.wufazhuce.com\/article\/3570?channel=weibo",
+            "imgUrl": "",
+            "audio": ""
+          },
+          "qq": {
+            "title": "凤凰于飞",
+            "desc": "我在一个多维构架的世界中游荡，迷雾重重，但这恰是它本身。",
+            "link": "http:\/\/m.wufazhuce.com\/article\/3570?channel=qq",
+            "imgUrl": "http:\/\/image.wufazhuce.com\/ONE_logo_120_square.png",
+            "audio": ""
+          }
+        },
+        "tag_list": []
+      },
+      {
+        "id": "16745",
+        "category": "2",
+        "display_category": "1",
+        "item_id": "787",
+        "title": "藏宝记 · 第十章",
+        "forward": "我们成年人的心思，就是怕人有我无，得到的越多越快乐。",
+        "img_url": "http:\/\/image.wufazhuce.com\/FmKIPBvWVGtFBuTr3KLpKxJip07-",
+        "like_count": 511,
+        "post_date": "2018-11-20 06:00:00",
+        "last_update_date": "2018-11-19 17:05:01",
+        "author": {
+          "user_id": "4814689",
+          "user_name": "吴浩然",
+          "desc": "青年作家。",
+          "wb_name": "@浩然习比",
+          "is_settled": "0",
+          "settled_type": "0",
+          "summary": "青年作家。",
+          "fans_total": "995",
+          "web_url": "http:\/\/image.wufazhuce.com\/FmOhi8FLn8coSUAU2neYOx6P1w0h"
+        },
+        "video_url": "",
+        "audio_url": "",
+        "audio_platform": 2,
+        "start_video": "",
+        "has_reading": 0,
+        "volume": 0,
+        "pic_info": "",
+        "words_info": "",
+        "subtitle": "连载：第10章",
+        "number": "10",
+        "serial_id": "66",
+        "serial_list": [
+          "769",
+          "771",
+          "773",
+          "775",
+          "777",
+          "779",
+          "781",
+          "783",
+          "785",
+          "787",
+          "789"
+        ],
+        "movie_story_id": 0,
+        "ad_id": 0,
+        "ad_type": 0,
+        "ad_pvurl": "",
+        "ad_linkurl": "",
+        "ad_makettime": "",
+        "ad_closetime": "",
+        "ad_share_cnt": "",
+        "ad_pvurl_vendor": "",
+        "content_id": "787",
+        "content_type": "2",
+        "content_bgcolor": "#FFFFFF",
+        "share_url": "http:\/\/m.wufazhuce.com\/serial\/787",
+        "share_info": {
+          "url": "http:\/\/m.wufazhuce.com\/serial\/787",
+          "image": "http:\/\/image.wufazhuce.com\/FmKIPBvWVGtFBuTr3KLpKxJip07-",
+          "title": "藏宝记 · 第十章 作者\/吴浩然",
+          "content": "我们成年人的心思，就是怕人有我无，得到的越多越快乐。"
+        },
+        "share_list": {
+          "wx": {
+            "title": "连载 | 藏宝记 · 第十章",
+            "desc": "文\/吴浩然 我们成年人的心思，就是怕人有我无，得到的越多越快乐。",
+            "link": "http:\/\/m.wufazhuce.com\/serial\/787?channel=singlemessage",
+            "imgUrl": "http:\/\/image.wufazhuce.com\/ONE_logo_120_square.png",
+            "audio": ""
+          },
+          "wx_timeline": {
+            "title": "连载 | 藏宝记 · 第十章",
+            "desc": "文\/吴浩然 我们成年人的心思，就是怕人有我无，得到的越多越快乐。",
+            "link": "http:\/\/m.wufazhuce.com\/serial\/787?channel=timeline",
+            "imgUrl": "http:\/\/image.wufazhuce.com\/ONE_logo_120_square.png",
+            "audio": ""
+          },
+          "weibo": {
+            "title": "ONE一个《连载 | 藏宝记 · 第十章》 文\/吴浩然： 我们成年人的心思，就是怕人有我无，得到的越多越快乐。 阅读全文：http:\/\/m.wufazhuce.com\/serial\/787?channel=weibo 下载ONE一个APP:http:\/\/weibo.com\/p\/100404157874",
+            "desc": "",
+            "link": "http:\/\/m.wufazhuce.com\/serial\/787?channel=weibo",
+            "imgUrl": "",
+            "audio": ""
+          },
+          "qq": {
+            "title": "藏宝记 · 第十章",
+            "desc": "我们成年人的心思，就是怕人有我无，得到的越多越快乐。",
+            "link": "http:\/\/m.wufazhuce.com\/serial\/787?channel=qq",
+            "imgUrl": "http:\/\/image.wufazhuce.com\/ONE_logo_120_square.png",
+            "audio": ""
+          }
+        },
+        "tag_list": []
+      },
+      {
+        "id": "16743",
+        "category": "3",
+        "display_category": "1",
+        "item_id": "2289",
+        "title": "你和你第一个喜欢的人之间发生过什么故事？",
+        "forward": "喜欢了三四年，终于处成了兄弟。",
+        "img_url": "http:\/\/image.wufazhuce.com\/FnpyHx4JvO1qno1Tbwq0yCh4vClL",
+        "like_count": 1878,
+        "post_date": "2018-11-20 06:00:00",
+        "last_update_date": "2018-11-19 13:26:36",
+        "author": {
+          "user_id": "0",
+          "user_name": "网友 答 一个App工作室",
+          "web_url": "http:\/\/image.wufazhuce.com\/placeholder-author-avatar.png",
+          "summary": "",
+          "desc": "",
+          "is_settled": "",
+          "settled_type": "",
+          "fans_total": "",
+          "wb_name": ""
+        },
+        "video_url": "",
+        "audio_url": "",
+        "audio_platform": 2,
+        "start_video": "",
+        "has_reading": 0,
+        "volume": 0,
+        "pic_info": "",
+        "words_info": "",
+        "subtitle": "",
+        "number": 0,
+        "serial_id": 0,
+        "serial_list": [],
+        "movie_story_id": 0,
+        "ad_id": 0,
+        "ad_type": 0,
+        "ad_pvurl": "",
+        "ad_linkurl": "",
+        "ad_makettime": "",
+        "ad_closetime": "",
+        "ad_share_cnt": "",
+        "ad_pvurl_vendor": "",
+        "content_id": "2289",
+        "content_type": "3",
+        "content_bgcolor": "#FFFFFF",
+        "share_url": "http:\/\/m.wufazhuce.com\/question\/2289",
+        "share_info": {
+          "url": "http:\/\/m.wufazhuce.com\/question\/2289",
+          "image": "http:\/\/image.wufazhuce.com\/FnpyHx4JvO1qno1Tbwq0yCh4vClL",
+          "title": "你和你第一个喜欢的人之间发生过什么故事？",
+          "content": "你和你第一个喜欢的人之间发生过什么故事？"
+        },
+        "share_list": {
+          "wx": {
+            "title": "问答 | 你和你第一个喜欢的人之间发生过什么故事？",
+            "desc": "文\/网友 喜欢了三四年，终于处成了兄弟。",
+            "link": "http:\/\/m.wufazhuce.com\/question\/2289?channel=singlemessage",
+            "imgUrl": "http:\/\/image.wufazhuce.com\/ONE_logo_120_square.png",
+            "audio": ""
+          },
+          "wx_timeline": {
+            "title": "问答 | 你和你第一个喜欢的人之间发生过什么故事？",
+            "desc": "文\/网友 喜欢了三四年，终于处成了兄弟。",
+            "link": "http:\/\/m.wufazhuce.com\/question\/2289?channel=timeline",
+            "imgUrl": "http:\/\/image.wufazhuce.com\/ONE_logo_120_square.png",
+            "audio": ""
+          },
+          "weibo": {
+            "title": "ONE一个《问答 | 你和你第一个喜欢的人之间发生过什么故事？》 文\/网友： 喜欢了三四年，终于处成了兄弟。 阅读全文：http:\/\/m.wufazhuce.com\/question\/2289?channel=weibo 下载ONE一个APP:http:\/\/weibo.com\/p\/100404157874",
+            "desc": "",
+            "link": "http:\/\/m.wufazhuce.com\/question\/2289?channel=weibo",
+            "imgUrl": "",
+            "audio": ""
+          },
+          "qq": {
+            "title": "你和你第一个喜欢的人之间发生过什么故事？",
+            "desc": "喜欢了三四年，终于处成了兄弟。",
+            "link": "http:\/\/m.wufazhuce.com\/question\/2289?channel=qq",
+            "imgUrl": "http:\/\/image.wufazhuce.com\/ONE_logo_120_square.png",
+            "audio": ""
+          }
+        },
+        "tag_list": []
+      },
+      {
+        "id": "16746",
+        "category": "4",
+        "display_category": "1",
+        "item_id": "2836",
+        "title": "人生不长久，喜欢你这件事我不想隐瞒",
+        "forward": "既然很多事情想不明白，不如坦陈出来，剩下的无论是什么都和时间去共度吧，你我凡人一枚，一句话就够了，不必追问太多。",
+        "img_url": "http:\/\/image.wufazhuce.com\/Fufe13C9EU1_tNmlEoJ-1S2Mq2qj",
+        "like_count": 1452,
+        "post_date": "2018-11-20 06:00:00",
+        "last_update_date": "2018-11-19 18:10:39",
+        "author": {
+          "user_id": "9869985",
+          "user_name": "Dina Hauge、Ulrik Haug",
+          "desc": "独立音乐人\/挪威音乐人",
+          "wb_name": "",
+          "is_settled": "0",
+          "settled_type": "0",
+          "summary": "独立音乐人",
+          "fans_total": "0",
+          "web_url": "http:\/\/image.wufazhuce.com\/FvOrlss_XhvdnMLENfKG3_mY09Pk"
+        },
+        "video_url": "",
+        "audio_url": "",
+        "audio_platform": 2,
+        "start_video": "",
+        "has_reading": 0,
+        "volume": 0,
+        "pic_info": "",
+        "words_info": "",
+        "subtitle": "专辑:Tree Demo ",
+        "number": 0,
+        "serial_id": 0,
+        "serial_list": [],
+        "movie_story_id": 0,
+        "ad_id": 0,
+        "ad_type": 0,
+        "ad_pvurl": "",
+        "ad_linkurl": "",
+        "ad_makettime": "",
+        "ad_closetime": "",
+        "ad_share_cnt": "",
+        "ad_pvurl_vendor": "",
+        "content_id": "2836",
+        "content_type": "4",
+        "content_bgcolor": "#FFFFFF",
+        "share_url": "http:\/\/m.wufazhuce.com\/music\/2836",
+        "share_info": {
+          "url": "http:\/\/m.wufazhuce.com\/music\/2836",
+          "image": "http:\/\/image.wufazhuce.com\/Fufe13C9EU1_tNmlEoJ-1S2Mq2qj",
+          "title": "「一个」音乐: Dina Hauge、Ulrik Haug Walk Me Home (feat. Dina Hauge)",
+          "content": "\n仅仅一个夜晚过后，这个城市就真的冷了下来，好像延续了几个月的炎热也不过尔尔了，套上薄外套走在路上的时候，seven觉得秋风前所未有的温柔。\n可是南方城市，秋天总是短暂，树叶泛黄后，很快就离了枝簌簌坠落，漫长的冬天很快就来了，趁着四周正金黄，seven拿出手机拍了张银杏的照片，找到hsu的微信，发送。\n久久没有回复，不过seven也知道他很忙。关于为何留在这座忙碌的城市， hsu有异常明确的目标，而seven最初来就只是为了完成学校的社会体验而已，于是找了一家短期实习，结果2个月后因为机缘巧合被留了下来。\nSeven 后来有很多事情都想不明白，除了当初为何留下之外，还有她明明讨厌冬天，但是却觉得去年的冬天令人欢喜得跟往常都不同。\n在不工作的时候，seven喜欢窝在被窝里写故事，她不是个作家，但也有了很多真真假假的故事，大多数故事的男主角名字都叫H，但凡H出现的篇章，基本都没有写过结局，seven说因为帮H设置结尾是一件心理素质极强的事，她害怕。\n害怕的人总会有点小心思，连见面、呼吸都如此。比如她悄悄算过了，隔一条街，三个路口，如果是骑摩拜，只需要7分钟就能见到hsu。\n夏天夜晚，街道上的风很凉，seven的裙子一路飘扬得很开心，她会故意骑得慢一点，假装没有那么迫不及待见到他。慢慢入秋之后，骑车变得有点冷，等到彻底进入冬天，seven就没法故意在路上拖时间了，因为手和鼻子总是被冻得通红，只能唰唰往前骑很快，以至于出现在他面前时鼻尖总会带点汗漉漉。\n爱情是何时发生的呢？这很难回答，就像人很难判断自己是何时入睡的一样。如果一定要回答的话，那么好奇心可能是爱情的起始点。\n譬如去年冬天很冷，有天他们约了晚餐，出门的时候冷气张牙舞爪扑过来，seven心里惯常想着冬天真的很讨厌，依旧不知道讨人喜欢。这时Hsu把围巾拿下来挂在seven脖子上，轻轻搂着她肩膀往前走。\n不知道是不是因为那一条围巾，让她爱上了冬天。\n2月新年的时候hsu去了挪威，大年晚上seven正跟闺蜜窝在床上看《洛丽塔》，少女趴在草坪上被水淋湿的时候，seven的手机响了，她滑开屏幕，是hsu传来拍的奥斯陆美术馆照片，夕阳把老旧的砖瓦晕染得漂亮至极，下面一行是带着爱心表情的新年祝福。闺蜜问：“你们到底什么关系？”正准备回微信的seven，感觉一下又思考不出答案了。\n是什么关系呢？是会经常喝酒看电影的关系，是走在路上会自然牵手的关系，是会把seven吃剩东西接过去吃掉的关系，是出差的时候会微信告知seven的关系，也是seven会因为他而拒绝其他男生的关系……\n但事实上，他们并非情侣，没人问，自然就没人答，彼此默契维系着现代社会看似美好又易碎的情感关系。\n有一次seven笑着问hsu，是不是因为曾经那段5年感情的狼狈退场让他不想要再去建立一段稳定关系，他拍了拍她的头，陪她一起看了那部张艾嘉的老电影《心动》，seven知道他是想要告诉她，逝去的不必问更不必追，可是同时她也以为，他会借此往前走的。可是直到电影接近尾声，小柔在飞机上终于看到了浩君这么多年来在明信片上寄托的思念时，hsu 也没有说什么再多余的话。\n于是不是作家的seven只好憋回很多话，回家攒成很多词不达意的稿子，用最原始又笨拙的方式练习造句，但我们都知道这种开不了口哪怕字字珠玑也毫无意义。\n“轻轻悄悄的喜欢有点难过，满是寂寞不洒脱，暗暗祈愿你也想过我。”\nSeven觉得人真是奇怪，写一串儿押韵毫无负担，开口说大白话反而词穷。不知道是不是对爱的定义太多，反而使表达显得困难了？\n后来seven在豆瓣上看到有条热评说：一生是由很多很小的心动构成的，多到万家灯火，每扇窗都是我未能传达到的牵挂，小到雨水惊蛰，一个人仍然能够感到惊讶。\n惊讶和好奇，本质上是相通的，下一步都想去探索。\n“晚上一起吃饭吧，我有话想跟你讲。”在上一条发出银杏叶图的微信后，seven加了一句话。\n既然很多事情想不明白，不如坦陈出来，剩下的无论是什么都和时间去共度吧，你我凡人一枚，一句话就够了，不必追问太多。\n文\/不雅雯\n"
+        },
+        "share_list": {
+          "wx": {
+            "title": "音乐 | 人生不长久，喜欢你这件事我不想隐瞒",
+            "desc": "文\/不雅雯 我们对爱的定义太多，反而使表达显得困难了。",
+            "link": "http:\/\/m.wufazhuce.com\/music\/2836?channel=singlemessage",
+            "imgUrl": "http:\/\/image.wufazhuce.com\/ONE_logo_120_square.png",
+            "audio": ""
+          },
+          "wx_timeline": {
+            "title": "音乐 | 人生不长久，喜欢你这件事我不想隐瞒",
+            "desc": "文\/不雅雯 我们对爱的定义太多，反而使表达显得困难了。",
+            "link": "http:\/\/m.wufazhuce.com\/music\/2836?channel=timeline",
+            "imgUrl": "http:\/\/image.wufazhuce.com\/ONE_logo_120_square.png",
+            "audio": ""
+          },
+          "weibo": {
+            "title": "ONE一个《音乐 | 人生不长久，喜欢你这件事我不想隐瞒》 文\/不雅雯： 我们对爱的定义太多，反而使表达显得困难了。 阅读全文：http:\/\/m.wufazhuce.com\/music\/2836?channel=weibo 下载ONE一个APP:http:\/\/weibo.com\/p\/100404157874",
+            "desc": "",
+            "link": "http:\/\/m.wufazhuce.com\/music\/2836?channel=weibo",
+            "imgUrl": "",
+            "audio": ""
+          },
+          "qq": {
+            "title": "人生不长久，喜欢你这件事我不想隐瞒",
+            "desc": "我们对爱的定义太多，反而使表达显得困难了。",
+            "link": "http:\/\/m.wufazhuce.com\/music\/2836?channel=qq",
+            "imgUrl": "http:\/\/image.wufazhuce.com\/ONE_logo_120_square.png",
+            "audio": ""
+          }
+        },
+        "tag_list": []
+      },
+      {
+        "id": "16730",
+        "category": "5",
+        "display_category": "1",
+        "item_id": "1610",
+        "title": "孤独像雪地上的轮胎印一样清晰",
+        "forward": "被嫌弃的中年肥宅男孩的一生。",
+        "img_url": "http:\/\/image.wufazhuce.com\/FqbtWNokrO4SxsxhPsN6Q-wkcmBB",
+        "like_count": 0,
+        "post_date": "2018-11-20 06:00:00",
+        "last_update_date": "2018-11-16 18:05:17",
+        "author": {
+          "user_id": "9831111",
+          "user_name": "辛木三",
+          "desc": "辛木三，编剧，写作的人。公众号：宇宙自嗨站。",
+          "wb_name": "",
+          "is_settled": "0",
+          "settled_type": "0",
+          "summary": "编剧，写作的人。公众号：宇宙自嗨站。",
+          "fans_total": "116",
+          "web_url": "http:\/\/image.wufazhuce.com\/Fn42fmgvAeczurVR0u1XUX5KXr08"
+        },
+        "video_url": "",
+        "audio_url": "",
+        "audio_platform": 2,
+        "start_video": "",
+        "has_reading": 0,
+        "volume": 0,
+        "pic_info": "",
+        "words_info": "",
+        "subtitle": "电影:处子之山",
+        "number": 0,
+        "serial_id": 0,
+        "serial_list": [],
+        "movie_story_id": "4593",
+        "ad_id": 0,
+        "ad_type": 0,
+        "ad_pvurl": "",
+        "ad_linkurl": "",
+        "ad_makettime": "",
+        "ad_closetime": "",
+        "ad_share_cnt": "",
+        "ad_pvurl_vendor": "",
+        "content_id": "1610",
+        "content_type": "5",
+        "content_bgcolor": "#FFFFFF",
+        "share_url": "http:\/\/m.wufazhuce.com\/movie\/1610",
+        "share_info": {
+          "url": "http:\/\/m.wufazhuce.com\/movie\/1610",
+          "image": "http:\/\/image.wufazhuce.com\/FqbtWNokrO4SxsxhPsN6Q-wkcmBB",
+          "title": "「一个」电影: 处子之山",
+          "content": "\n2018年，一支最“业余”的球队杀进世界杯，以黑马的身份圈粉无数，教练是牙医，门将是导演，而后卫是工人……\n这支球队来自冰岛，这个只有33万人口的国家，不仅在足球上有所突破，2015年更是掀起了“冰岛电影新浪潮”，佳片迭出，呈现出小成本制作，展现冰岛特有的冷峻气质，节奏缓慢地讲述平实而温暖的生活故事的电影特点。\n达格·卡利的《处子之山》就是代表影片之一。\n\n《处子之山》中，年近四十的福斯，体型臃肿。他有些谢顶，稀松的长头发散乱着，浓密的胡子上总沾到牛奶。从未交过女朋友，至今还是处男。在机场做着搬运行李的工作，沉默寡言。\n从外在行为来看，他是典型的大龄儿童。他每天的早饭是巧克力味的麦片配牛奶；最热爱的是摆在屋里的大型战争模型沙盘和手工；他和母亲以及母亲的男朋友住在一起，什么都会告诉母亲。\n他沉浸在自己孤独的节奏中，每个周五他都会去同一家店吃泰式炒面；每天晚上他都会在电台点他喜欢的重金属音乐，而最熟悉他生活的竟然是电台另一边的主持人。\n在一个俯视的全景镜头下，皮卡停在被灯光照亮的河边，色调黑暗沉重。车里传来的是躁动的音乐，而福斯的孤独像雪地上的轮胎印一样清晰。\n\n但从福斯的内心来看，他的孤独更像是他对外界生活的自我排斥。他敏感而清晰地捕捉身边人对待自己的方式，他能够想到最温柔的办法，就是自我逃避。他始终戴着降噪耳机吃饭，是不想听到别人对他恶语相加；他陪着新来的邻居小女孩玩游戏，却被小女孩的爸爸说成是怪人……\n他越是想把自己隐藏起来，却越被拉到众人中羞辱：同事将他拖进淋浴室，他躺在地上被水冲得睁不开眼睛；邻居小女孩的父亲把他当做恋童癖然后报警，整个小区的家长都不让孩子和福斯玩……即使如此，福斯依然帮同事修了车，依然在搬走时将玩具送给邻居小女孩，从未有过半点怨言。\n\n以外貌将人划分，再施加语言与暴力，这种赤裸裸的霸凌行为，却被施加者看做“开个玩笑的恶作剧”，即便故事里他们都为自己的行为道了歉，却始终无法弥补那一刻的脆弱与伤痛。\n将人性的真实放到冰岛特有的暴雪与寒冬中，北欧特有的清冷气氛下，影片将孤独与疏离感呈现得愈发强烈。\n所以福斯用自以为安全的方式，一个人生活，像一座孤岛，直到他在舞蹈课上遇到了女孩修芬。舞蹈课是母亲男朋友送的生日礼物，虽然说是希望他外向一些，但实际上不过是希望福斯能够有自己的生活，离开自己的母亲，而遇到修芬成为了一切的转折点。\n在修芬的鼓励下，福斯开始坚持去上舞蹈课。对于修芬的喜欢，让他迫不及待地将修芬拉进自己的生活——他带着修芬去吃炒面，在电台为修芬点歌。他将修芬送回家，从无表情的福斯第一次有了若有若无的微笑，随着行车在路灯下被包裹上暖黄色的光。\n\n他愈发着急去表现自己的喜欢，谈话中听说修芬喜欢旅游，从未出过国的他便立刻去旅行社报名，目的地是与冰岛截然不同的埃及。却没想到，修芬给福斯发了好人卡，而此时福斯也发现修芬其实患有抑郁症。\n为了修芬，福斯请假全身心投入地照顾生病的修芬：替她去垃圾场上班；为她做每一顿饭；照顾她的起居……福斯的行为终于打动了修芬，两人愉快地度过了一段甜蜜时光，然而修芬的反复无常令这段感情必然无疾而终。\n\n对于福斯来说，修芬是感情上的失败，却令他完成了自身成长。可以说从修芬的加入开始，福斯的舒适圈就被打破，他开始学着离开自己的原生家庭，开始承担责任，开始有所改变。\n这种改变更像是孩童向成人化的转变。进入了成人世界的福斯，从沉默不言到能够与垃圾站的同事们友好地交流；从只喝牛奶到酒吧中一起看球喝下第一杯啤酒；再次被机场的同事欺负，福斯挥起拳头开始反抗；当母亲对修芬的病情加以批评，福斯第一次反驳了自己的母亲……\n当特写镜头聚焦在福斯专注又干净的眼睛上时，福斯自身的邋遢外表似乎被忽略，而处子般的纯粹感被无限放大。电影细腻地展示了福斯心智上的成熟与改变，慢条斯理地完成了一个中年大孩童的成长。\n\n故事的结局，福斯独自一人踏上了前往埃及的飞机。\n也许没有人陪，也许生活并不总是温柔以报，但是未知的人生确实应该去体验一下了。这样想着，福斯在飞机上露出了全片中的第二次笑容。\n"
+        },
+        "share_list": {
+          "wx": {
+            "title": "电影 | 孤独像雪地上的轮胎印一样清晰",
+            "desc": "文\/辛木三 被嫌弃的中年肥宅男孩的一生。",
+            "link": "http:\/\/m.wufazhuce.com\/movie\/1610?channel=singlemessage",
+            "imgUrl": "http:\/\/image.wufazhuce.com\/ONE_logo_120_square.png",
+            "audio": ""
+          },
+          "wx_timeline": {
+            "title": "电影 | 孤独像雪地上的轮胎印一样清晰",
+            "desc": "文\/辛木三 被嫌弃的中年肥宅男孩的一生。",
+            "link": "http:\/\/m.wufazhuce.com\/movie\/1610?channel=timeline",
+            "imgUrl": "http:\/\/image.wufazhuce.com\/ONE_logo_120_square.png",
+            "audio": ""
+          },
+          "weibo": {
+            "title": "ONE一个《电影 | 孤独像雪地上的轮胎印一样清晰》 文\/辛木三： 被嫌弃的中年肥宅男孩的一生。 阅读全文：http:\/\/m.wufazhuce.com\/movie\/1610?channel=weibo 下载ONE一个APP:http:\/\/weibo.com\/p\/100404157874",
+            "desc": "",
+            "link": "http:\/\/m.wufazhuce.com\/movie\/1610?channel=weibo",
+            "imgUrl": "",
+            "audio": ""
+          },
+          "qq": {
+            "title": "孤独像雪地上的轮胎印一样清晰",
+            "desc": "被嫌弃的中年肥宅男孩的一生。",
+            "link": "http:\/\/m.wufazhuce.com\/movie\/1610?channel=qq",
+            "imgUrl": "http:\/\/image.wufazhuce.com\/ONE_logo_120_square.png",
+            "audio": ""
+          }
+        },
+        "tag_list": []
+      }
+    ],
+    "menu": {
+      "vol": "2236",
+      "list": [
+        {
+          "content_type": "1",
+          "content_id": "3570",
+          "title": "凤凰于飞"
+        },
+        {
+          "content_type": "2",
+          "content_id": "787",
+          "serial_list": [
+            "769",
+            "771",
+            "773",
+            "775",
+            "777",
+            "779",
+            "781",
+            "783",
+            "785",
+            "787",
+            "789"
+          ],
+          "title": "藏宝记 · 第十章"
+        },
+        {
+          "content_type": "3",
+          "content_id": "2289",
+          "title": "你和你第一个喜欢的人之间发生过什么故事？"
+        },
+        {
+          "content_type": "4",
+          "content_id": "2836",
+          "title": "人生不长久，喜欢你这件事我不想隐瞒"
+        },
+        {
+          "content_type": "5",
+          "content_id": "1610",
+          "title": "孤独像雪地上的轮胎印一样清晰"
+        }
+      ]
+    }
+  }
+}

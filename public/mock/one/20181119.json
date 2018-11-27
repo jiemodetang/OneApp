@@ -1,0 +1,709 @@
+{
+    "res": 0,
+    "data": {
+      "id": "4959",
+      "weather": {
+        "city_name": "北京",
+        "date": "2018-11-19",
+        "temperature": "7",
+        "humidity": "27%",
+        "climate": "晴",
+        "wind_direction": "2级",
+        "hurricane": "南风",
+        "icons": {
+          "day": "weather_icon_clear",
+          "night": "weather_icon_clear_night"
+        }
+      },
+      "date": "2018-11-19 06:00:00",
+      "content_list": [
+        {
+          "id": "16722",
+          "category": "0",
+          "display_category": "4",
+          "item_id": "2265",
+          "title": "摄影",
+          "forward": "人间的事往往如此，当时提起痛不欲生，几年之后，也不过是一场回忆而已。",
+          "img_url": "http:\/\/image.wufazhuce.com\/FjXB-HaeXXHRTDKn3Md6HS3BEU5Y",
+          "like_count": 12953,
+          "post_date": "2018-11-19 06:00:00",
+          "last_update_date": "2018-11-15 15:30:53",
+          "author": {},
+          "video_url": "",
+          "audio_url": "",
+          "audio_platform": 2,
+          "start_video": "",
+          "has_reading": 0,
+          "volume": "VOL.2235",
+          "pic_info": "Jonatan Pie",
+          "words_info": "《燃烧的心》",
+          "subtitle": "",
+          "number": 0,
+          "serial_id": 0,
+          "serial_list": [],
+          "movie_story_id": 0,
+          "ad_id": 0,
+          "ad_type": 0,
+          "ad_pvurl": "",
+          "ad_linkurl": "",
+          "ad_makettime": "",
+          "ad_closetime": "",
+          "ad_share_cnt": "",
+          "ad_pvurl_vendor": "",
+          "content_id": "2265",
+          "content_type": "0",
+          "content_bgcolor": "",
+          "share_url": "http:\/\/m.wufazhuce.com\/one\/2265",
+          "share_info": {
+            "url": "http:\/\/m.wufazhuce.com\/one\/2265",
+            "image": "http:\/\/image.wufazhuce.com\/FjXB-HaeXXHRTDKn3Md6HS3BEU5Y",
+            "title": "VOL.2235",
+            "content": "人间的事往往如此，当时提起痛不欲生，几年之后，也不过是一场回忆而已。 from 《燃烧的心》"
+          },
+          "share_list": {
+            "wx": {
+              "title": "",
+              "desc": "",
+              "link": "http:\/\/m.wufazhuce.com\/one\/2265?channel=singlemessage",
+              "imgUrl": "",
+              "audio": ""
+            },
+            "wx_timeline": {
+              "title": "",
+              "desc": "",
+              "link": "http:\/\/m.wufazhuce.com\/one\/2265?channel=timeline",
+              "imgUrl": "",
+              "audio": ""
+            },
+            "weibo": {
+              "title": "ONE一个 人间的事往往如此，当时提起痛不欲生，几年之后，也不过是一场回忆而已。 from 《燃烧的心》——《燃烧的心》 下载ONE一个APP:http:\/\/weibo.com\/p\/100404157874",
+              "desc": "",
+              "link": "http:\/\/m.wufazhuce.com\/one\/2265?channel=weibo",
+              "imgUrl": "",
+              "audio": ""
+            },
+            "qq": {
+              "title": "",
+              "desc": "",
+              "link": "http:\/\/m.wufazhuce.com\/one\/2265?channel=qq",
+              "imgUrl": "",
+              "audio": ""
+            }
+          },
+          "tag_list": []
+        },
+        {
+          "id": "16733",
+          "category": "1",
+          "display_category": "1",
+          "item_id": "3568",
+          "title": "闯入者",
+          "forward": "坚硬的东西是用来经受的，不是用来回忆的。",
+          "img_url": "http:\/\/image.wufazhuce.com\/Fh2Rzpi4UpIJ4ZO8g0Wzto1JnNht",
+          "like_count": 2201,
+          "post_date": "2018-11-19 06:00:00",
+          "last_update_date": "2018-11-19 12:23:31",
+          "author": {
+            "user_id": "7926472",
+            "user_name": "赫恩曼尼",
+            "desc": "也叫畅小呆，90后，偶尔写写字的人。",
+            "wb_name": "",
+            "is_settled": "0",
+            "settled_type": "0",
+            "summary": "也叫畅小呆，90后，偶尔写写字的人。",
+            "fans_total": "3356",
+            "web_url": "http:\/\/image.wufazhuce.com\/FlhPntB2nxxZ2eQBUmkgiOBSiI9N"
+          },
+          "video_url": "",
+          "audio_url": "",
+          "audio_platform": 2,
+          "start_video": "",
+          "has_reading": 1,
+          "volume": 0,
+          "pic_info": "",
+          "words_info": "",
+          "subtitle": "",
+          "number": 0,
+          "serial_id": 0,
+          "serial_list": [],
+          "movie_story_id": 0,
+          "ad_id": 0,
+          "ad_type": 0,
+          "ad_pvurl": "",
+          "ad_linkurl": "",
+          "ad_makettime": "",
+          "ad_closetime": "",
+          "ad_share_cnt": "",
+          "ad_pvurl_vendor": "",
+          "content_id": "3568",
+          "content_type": "1",
+          "content_bgcolor": "#FFFFFF",
+          "share_url": "http:\/\/m.wufazhuce.com\/article\/3568",
+          "share_info": {
+            "url": "http:\/\/m.wufazhuce.com\/article\/3568",
+            "image": "http:\/\/image.wufazhuce.com\/Fh2Rzpi4UpIJ4ZO8g0Wzto1JnNht",
+            "title": "闯入者 作者\/赫恩曼尼",
+            "content": "坚硬的东西是用来经受的，不是用来回忆的。"
+          },
+          "share_list": {
+            "wx": {
+              "title": "ONE STORY | 闯入者",
+              "desc": "文\/赫恩曼尼 坚硬的东西是用来经受的，不是用来回忆的。",
+              "link": "http:\/\/m.wufazhuce.com\/article\/3568?channel=singlemessage",
+              "imgUrl": "http:\/\/image.wufazhuce.com\/ONE_logo_120_square.png",
+              "audio": ""
+            },
+            "wx_timeline": {
+              "title": "ONE STORY | 闯入者",
+              "desc": "文\/赫恩曼尼 坚硬的东西是用来经受的，不是用来回忆的。",
+              "link": "http:\/\/m.wufazhuce.com\/article\/3568?channel=timeline",
+              "imgUrl": "http:\/\/image.wufazhuce.com\/ONE_logo_120_square.png",
+              "audio": ""
+            },
+            "weibo": {
+              "title": "ONE一个《ONE STORY | 闯入者》 文\/赫恩曼尼： 坚硬的东西是用来经受的，不是用来回忆的。 阅读全文：http:\/\/m.wufazhuce.com\/article\/3568?channel=weibo 下载ONE一个APP:http:\/\/weibo.com\/p\/100404157874",
+              "desc": "",
+              "link": "http:\/\/m.wufazhuce.com\/article\/3568?channel=weibo",
+              "imgUrl": "",
+              "audio": ""
+            },
+            "qq": {
+              "title": "闯入者",
+              "desc": "坚硬的东西是用来经受的，不是用来回忆的。",
+              "link": "http:\/\/m.wufazhuce.com\/article\/3568?channel=qq",
+              "imgUrl": "http:\/\/image.wufazhuce.com\/ONE_logo_120_square.png",
+              "audio": ""
+            }
+          },
+          "tag_list": [
+            {
+              "id": "7",
+              "title": "ONE STORY"
+            }
+          ]
+        },
+        {
+          "id": "16732",
+          "category": "1",
+          "display_category": "1",
+          "item_id": "3567",
+          "title": "没有人不值得被爱",
+          "forward": "疗伤好的方式，不是去探究自己到底哪里做对哪里做错，而是像跌倒了再站起来，清理伤口，看见那份疼痛，耐心等待痊愈。",
+          "img_url": "http:\/\/image.wufazhuce.com\/FhVbdbkOjEVqANp-RiynqTtU4Ngf",
+          "like_count": 2493,
+          "post_date": "2018-11-19 06:00:00",
+          "last_update_date": "2018-11-16 18:28:31",
+          "author": {
+            "user_id": "7671727",
+            "user_name": "陈雪",
+            "desc": "小说《蝴蝶》曾被香港导演麦婉欣改编成同名电影，著有《恋爱课》《台妹时光》《人妻日记》《迷宫中的恋人》等，微信公众号：小说家陈雪（ID：twchenxue）。",
+            "wb_name": "",
+            "is_settled": "0",
+            "settled_type": "0",
+            "summary": "作家",
+            "fans_total": "9683",
+            "web_url": "http:\/\/image.wufazhuce.com\/Fu6o0fqKHsI_TjdpPX3N2Kc99vNP"
+          },
+          "video_url": "",
+          "audio_url": "",
+          "audio_platform": 2,
+          "start_video": "",
+          "has_reading": 0,
+          "volume": 0,
+          "pic_info": "",
+          "words_info": "",
+          "subtitle": "",
+          "number": 0,
+          "serial_id": 0,
+          "serial_list": [],
+          "movie_story_id": 0,
+          "ad_id": 0,
+          "ad_type": 0,
+          "ad_pvurl": "",
+          "ad_linkurl": "",
+          "ad_makettime": "",
+          "ad_closetime": "",
+          "ad_share_cnt": "",
+          "ad_pvurl_vendor": "",
+          "content_id": "3567",
+          "content_type": "1",
+          "content_bgcolor": "#FFFFFF",
+          "share_url": "http:\/\/m.wufazhuce.com\/article\/3567",
+          "share_info": {
+            "url": "http:\/\/m.wufazhuce.com\/article\/3567",
+            "image": "http:\/\/image.wufazhuce.com\/FhVbdbkOjEVqANp-RiynqTtU4Ngf",
+            "title": "没有人不值得被爱 作者\/陈雪",
+            "content": "“分手”只是眼前这两个人无法当恋人，不能毁灭一个人的珍贵。"
+          },
+          "share_list": {
+            "wx": {
+              "title": "恋爱课 | 没有人不值得被爱",
+              "desc": "文\/陈雪 “分手”只是眼前这两个人无法当恋人，不能毁灭一个人的珍贵。",
+              "link": "http:\/\/m.wufazhuce.com\/article\/3567?channel=singlemessage",
+              "imgUrl": "http:\/\/image.wufazhuce.com\/ONE_logo_120_square.png",
+              "audio": ""
+            },
+            "wx_timeline": {
+              "title": "恋爱课 | 没有人不值得被爱",
+              "desc": "文\/陈雪 “分手”只是眼前这两个人无法当恋人，不能毁灭一个人的珍贵。",
+              "link": "http:\/\/m.wufazhuce.com\/article\/3567?channel=timeline",
+              "imgUrl": "http:\/\/image.wufazhuce.com\/ONE_logo_120_square.png",
+              "audio": ""
+            },
+            "weibo": {
+              "title": "ONE一个《恋爱课 | 没有人不值得被爱》 文\/陈雪： “分手”只是眼前这两个人无法当恋人，不能毁灭一个人的珍贵。 阅读全文：http:\/\/m.wufazhuce.com\/article\/3567?channel=weibo 下载ONE一个APP:http:\/\/weibo.com\/p\/100404157874",
+              "desc": "",
+              "link": "http:\/\/m.wufazhuce.com\/article\/3567?channel=weibo",
+              "imgUrl": "",
+              "audio": ""
+            },
+            "qq": {
+              "title": "没有人不值得被爱",
+              "desc": "“分手”只是眼前这两个人无法当恋人，不能毁灭一个人的珍贵。",
+              "link": "http:\/\/m.wufazhuce.com\/article\/3567?channel=qq",
+              "imgUrl": "http:\/\/image.wufazhuce.com\/ONE_logo_120_square.png",
+              "audio": ""
+            }
+          },
+          "tag_list": [
+            {
+              "id": "34",
+              "title": "恋爱课"
+            }
+          ]
+        },
+        {
+          "id": "16742",
+          "category": "2",
+          "display_category": "1",
+          "item_id": "786",
+          "title": "无常殿22",
+          "forward": "他们三个人在那边唱着戏，唯独我明白钟梵声这一句问话的真正含义。\n谈墨怎么可能允许陶致远做她的律师？",
+          "img_url": "http:\/\/image.wufazhuce.com\/FvugpzM8Lpr6SYyPH8DR9dqT438m",
+          "like_count": 236,
+          "post_date": "2018-11-19 06:00:00",
+          "last_update_date": "2018-11-19 00:19:55",
+          "author": {
+            "user_id": "9715695",
+            "user_name": "孙未",
+            "desc": "上海作家，小说集《迷路人间》即将上市。",
+            "wb_name": "@孙未",
+            "is_settled": "0",
+            "settled_type": "0",
+            "summary": "上海作家。",
+            "fans_total": "1155",
+            "web_url": "http:\/\/image.wufazhuce.com\/Fi1mVoovOFa6-2BcUuUQIb-2nKzb"
+          },
+          "video_url": "",
+          "audio_url": "",
+          "audio_platform": 2,
+          "start_video": "",
+          "has_reading": 0,
+          "volume": 0,
+          "pic_info": "",
+          "words_info": "",
+          "subtitle": "连载：第22章",
+          "number": "22",
+          "serial_id": "65",
+          "serial_list": [
+            "745",
+            "747",
+            "749",
+            "750",
+            "752",
+            "754",
+            "756",
+            "758",
+            "760",
+            "762",
+            "764",
+            "766",
+            "768",
+            "770",
+            "772",
+            "774",
+            "776",
+            "778",
+            "780",
+            "782",
+            "784",
+            "786",
+            "788"
+          ],
+          "movie_story_id": 0,
+          "ad_id": 0,
+          "ad_type": 0,
+          "ad_pvurl": "",
+          "ad_linkurl": "",
+          "ad_makettime": "",
+          "ad_closetime": "",
+          "ad_share_cnt": "",
+          "ad_pvurl_vendor": "",
+          "content_id": "786",
+          "content_type": "2",
+          "content_bgcolor": "#FFFFFF",
+          "share_url": "http:\/\/m.wufazhuce.com\/serial\/786",
+          "share_info": {
+            "url": "http:\/\/m.wufazhuce.com\/serial\/786",
+            "image": "http:\/\/image.wufazhuce.com\/FvugpzM8Lpr6SYyPH8DR9dqT438m",
+            "title": "无常殿22 作者\/孙未",
+            "content": "谈墨怎么可能允许陶致远做她的律师？"
+          },
+          "share_list": {
+            "wx": {
+              "title": "连载 | 无常殿22",
+              "desc": "文\/孙未 谈墨怎么可能允许陶致远做她的律师？",
+              "link": "http:\/\/m.wufazhuce.com\/serial\/786?channel=singlemessage",
+              "imgUrl": "http:\/\/image.wufazhuce.com\/ONE_logo_120_square.png",
+              "audio": ""
+            },
+            "wx_timeline": {
+              "title": "连载 | 无常殿22",
+              "desc": "文\/孙未 谈墨怎么可能允许陶致远做她的律师？",
+              "link": "http:\/\/m.wufazhuce.com\/serial\/786?channel=timeline",
+              "imgUrl": "http:\/\/image.wufazhuce.com\/ONE_logo_120_square.png",
+              "audio": ""
+            },
+            "weibo": {
+              "title": "ONE一个《连载 | 无常殿22》 文\/孙未： 谈墨怎么可能允许陶致远做她的律师？ 阅读全文：http:\/\/m.wufazhuce.com\/serial\/786?channel=weibo 下载ONE一个APP:http:\/\/weibo.com\/p\/100404157874",
+              "desc": "",
+              "link": "http:\/\/m.wufazhuce.com\/serial\/786?channel=weibo",
+              "imgUrl": "",
+              "audio": ""
+            },
+            "qq": {
+              "title": "无常殿22",
+              "desc": "谈墨怎么可能允许陶致远做她的律师？",
+              "link": "http:\/\/m.wufazhuce.com\/serial\/786?channel=qq",
+              "imgUrl": "http:\/\/image.wufazhuce.com\/ONE_logo_120_square.png",
+              "audio": ""
+            }
+          },
+          "tag_list": []
+        },
+        {
+          "id": "16741",
+          "category": "3",
+          "display_category": "1",
+          "item_id": "2288",
+          "title": "如何评价当今社会的“锦鲤”文化？",
+          "forward": "王小波说过：走投无路才会迷信。",
+          "img_url": "http:\/\/image.wufazhuce.com\/Fnc5x2O16LAfSZn88ec8qZP2GdIp",
+          "like_count": 1735,
+          "post_date": "2018-11-19 06:00:00",
+          "last_update_date": "2018-11-19 00:05:41",
+          "author": {
+            "user_id": "0",
+            "user_name": "西岛 答 森林燃烧",
+            "web_url": "http:\/\/image.wufazhuce.com\/placeholder-author-avatar.png",
+            "summary": "",
+            "desc": "",
+            "is_settled": "",
+            "settled_type": "",
+            "fans_total": "",
+            "wb_name": ""
+          },
+          "video_url": "",
+          "audio_url": "",
+          "audio_platform": 2,
+          "start_video": "",
+          "has_reading": 0,
+          "volume": 0,
+          "pic_info": "",
+          "words_info": "",
+          "subtitle": "",
+          "number": 0,
+          "serial_id": 0,
+          "serial_list": [],
+          "movie_story_id": 0,
+          "ad_id": 0,
+          "ad_type": 0,
+          "ad_pvurl": "",
+          "ad_linkurl": "",
+          "ad_makettime": "",
+          "ad_closetime": "",
+          "ad_share_cnt": "",
+          "ad_pvurl_vendor": "",
+          "content_id": "2288",
+          "content_type": "3",
+          "content_bgcolor": "#FFFFFF",
+          "share_url": "http:\/\/m.wufazhuce.com\/question\/2288",
+          "share_info": {
+            "url": "http:\/\/m.wufazhuce.com\/question\/2288",
+            "image": "http:\/\/image.wufazhuce.com\/Fnc5x2O16LAfSZn88ec8qZP2GdIp",
+            "title": "如何评价当今社会的“锦鲤”文化？",
+            "content": "没有哪个时代像今天这样，每天，每时每刻，每个人都在各种社交媒体转发各种各样的锦鲤。以前大家烧香拜佛还需要登高远望，现在坐在马桶上动动手指就完成了一次“祈愿”，把自己无边的欲望暴露在众目睽睽之下，也没有任何羞涩的地方。曾经我以为所有的愿望都应该像生日愿望那样，悄悄地在蜡烛点亮的那一刻许下，而现在人们通过各种迷信只希望立刻被满足愿望。为何这些“锦鲤”能够赢得如此巨大的人气？"
+          },
+          "share_list": {
+            "wx": {
+              "title": "问答 | 如何评价当今社会的“锦鲤”文化？",
+              "desc": "文\/西岛 王小波说过：走投无路才会迷信。",
+              "link": "http:\/\/m.wufazhuce.com\/question\/2288?channel=singlemessage",
+              "imgUrl": "http:\/\/image.wufazhuce.com\/ONE_logo_120_square.png",
+              "audio": ""
+            },
+            "wx_timeline": {
+              "title": "问答 | 如何评价当今社会的“锦鲤”文化？",
+              "desc": "文\/西岛 王小波说过：走投无路才会迷信。",
+              "link": "http:\/\/m.wufazhuce.com\/question\/2288?channel=timeline",
+              "imgUrl": "http:\/\/image.wufazhuce.com\/ONE_logo_120_square.png",
+              "audio": ""
+            },
+            "weibo": {
+              "title": "ONE一个《问答 | 如何评价当今社会的“锦鲤”文化？》 文\/西岛： 王小波说过：走投无路才会迷信。 阅读全文：http:\/\/m.wufazhuce.com\/question\/2288?channel=weibo 下载ONE一个APP:http:\/\/weibo.com\/p\/100404157874",
+              "desc": "",
+              "link": "http:\/\/m.wufazhuce.com\/question\/2288?channel=weibo",
+              "imgUrl": "",
+              "audio": ""
+            },
+            "qq": {
+              "title": "如何评价当今社会的“锦鲤”文化？",
+              "desc": "王小波说过：走投无路才会迷信。",
+              "link": "http:\/\/m.wufazhuce.com\/question\/2288?channel=qq",
+              "imgUrl": "http:\/\/image.wufazhuce.com\/ONE_logo_120_square.png",
+              "audio": ""
+            }
+          },
+          "tag_list": []
+        },
+        {
+          "id": "16734",
+          "category": "4",
+          "display_category": "1",
+          "item_id": "2833",
+          "title": "先别说晚安，别把想念留一半",
+          "forward": "当我无能为力说更多能够让你心满意足的文字时，“晚安”就是一个特别中立而不带情绪的对话，终结不尴不尬的一整天。",
+          "img_url": "http:\/\/image.wufazhuce.com\/FvsXzDYprdC53mWR9WF2PBIS5fy7",
+          "like_count": 1361,
+          "post_date": "2018-11-19 06:00:00",
+          "last_update_date": "2018-11-19 14:00:22",
+          "author": {
+            "user_id": "9859095",
+            "user_name": "大宽",
+            "desc": "不靠音乐生存，但它让我可以有信仰地活着。",
+            "wb_name": "",
+            "is_settled": "0",
+            "settled_type": "0",
+            "summary": "不靠音乐生存，但它让我可以有信仰地活着。",
+            "fans_total": "165",
+            "web_url": "http:\/\/image.wufazhuce.com\/FsEKGmATvkf_0ww1DPrR4OU-u5r9"
+          },
+          "video_url": "",
+          "audio_url": "",
+          "audio_platform": 2,
+          "start_video": "",
+          "has_reading": 0,
+          "volume": 0,
+          "pic_info": "",
+          "words_info": "",
+          "subtitle": "专辑:晚不安",
+          "number": 0,
+          "serial_id": 0,
+          "serial_list": [],
+          "movie_story_id": 0,
+          "ad_id": 0,
+          "ad_type": 0,
+          "ad_pvurl": "",
+          "ad_linkurl": "",
+          "ad_makettime": "",
+          "ad_closetime": "",
+          "ad_share_cnt": "",
+          "ad_pvurl_vendor": "",
+          "content_id": "2833",
+          "content_type": "4",
+          "content_bgcolor": "#FFFFFF",
+          "share_url": "http:\/\/m.wufazhuce.com\/music\/2833",
+          "share_info": {
+            "url": "http:\/\/m.wufazhuce.com\/music\/2833",
+            "image": "http:\/\/image.wufazhuce.com\/FvsXzDYprdC53mWR9WF2PBIS5fy7",
+            "title": "「一个」音乐: 大宽 晚不安",
+            "content": "\n1.\n今年我换了一个新的工作单位，上班时间变成下午2点到晚上9点，我本以为可以过着每天下班之后去喝个烂醉第二天睡到自然醒的销魂生活，结果从3月到现在一年都快过完了还从来没有实现过。\n有时候不定期被通知要早上9点开会于是懵着个脸跑到公司然后做一个呆滞12小时的行尸走肉；有时候下班了就只想去隔壁便利店买个饭团吃了就赶紧回家洗澡睡觉；有时候游戏的新任务下载完毕了得迅速狂奔回家认真刷完。\n失去了所有晚餐社交的时间和资格，好在还剩下一个重要的仪式就是在手机里互道晚安。\n这大概就是我的夜晚的，全部意义了。\n2.\n朋友前一阵子谈了一段异国恋，过着“用我的晚安陪你吃早餐”的日子。这俩人儿都过得像单身一样，各自的白天，各自忙各自的，各自的夜晚，各自呼呼大睡。唯一的交集点就是她醒了之后说“早啊”，他回“早，我要睡啦。”\n好像每个人在早上醒来和晚上睡前的精神状态是完全不一样的，他每每想说“今天好想你”的时候，总是会迎到对方噼里啪啦的“我在洗漱哦”“今天又有个论文要交我昨晚忘记写了”“妈的我要迟到了”。所以只能把矫情的情话咽下去，安慰“慢慢来别着急”。\n当很多次酝酿好的浓情蜜意遇到不理智的起床气时，好像两个人的画风总是会发生一些偏差。一来二去，也就少了很多你来我往的对弈，只剩那一句每天按时发送的“晚安”。\n结束这段感情的原因其实是特别小的一件事儿，小到都已经无法形容它是一件事儿了。但他们俩却突然疯了一样开始在本应该说“晚安”的时间点，直接而草率地发泄自己的不满和委屈，谁都不让谁，“晚安”变成“那就好聚好散”。\n不长不短，一年半的感情，戛然而止的时候，他似乎没有太大的情感波动了，因为不管起床还是入睡，都还是一个人，不管遇到挫折和喜悦，也都还是独享。唯独就是少了每天流程化的那个固定仪式：\n“晚安。”\n3.\n写这首歌的时候，正经历着这一段“同城异地恋”。我住在城市的西边，你的家正好在我的对角线的城市另一头，两个工作狂忙起来没日没夜的。偶尔下班早或者遇到周末的时候，我会去接你出来吃饭看电影逛街。大部分时间会把你送回家，你说“开车注意安全”我说“好”，然后到家了之后告诉你“我到咯”，你说“好，我准备睡了啊，晚安”“嗯，晚安”。\n这首歌好像就是在说了一百多次不近不远的晚安之后写下的，那个时候我开始慢慢懂了，“晚安”这个词从某种程度来说可以变成一个“逃离现场”的借口和推辞。当我无能为力说更多能够让你心满意足的文字时，“晚安”就是一个特别中立而不带情绪的对话，终结不尴不尬的一整天。\n在这段关系结束后，我才发现这首歌写的真是真实而精准。虽然当时我把这首歌的DEMO当时给朋友们听，他说“哇小甜歌”，我苦笑，说“其实是小丧歌”。他们不太理解，但我也懒得去分析那句“先别说晚安”里面所藏着的无奈和释然了。\n甜就甜吧，“晚安”依然还是大部分人的情感信仰和重要仪式吧。\n4.\n愿意把夜晚的时间交出来，老老实实坐在床上陪对方说话，就算隔着手机冰冷闪烁的屏幕，依然是一件值得歌颂的事。\n但我好像还是不太喜欢“晚安”这个词，相对而言，现在的自己更愿意用“去睡吧”和“不说了，我刷刷微博就睡了”来终结对话。好像让对方更加了解我的状态，比一句“晚安”更加直接了当和心安一些。\n所以这首《晚不安》，大概也可以帮助我自己解决一些对于晚安的负面情绪。让睡前的最后仪式，不至于变成敷衍的念白。\n5.\n异地不易，但还是节省“晚安”。\n文\/大宽\n"
+          },
+          "share_list": {
+            "wx": {
+              "title": "音乐 | 先别说晚安，别把想念留一半",
+              "desc": "文\/大宽 异地不易，但还是节省“晚安”。",
+              "link": "http:\/\/m.wufazhuce.com\/music\/2833?channel=singlemessage",
+              "imgUrl": "http:\/\/image.wufazhuce.com\/ONE_logo_120_square.png",
+              "audio": ""
+            },
+            "wx_timeline": {
+              "title": "音乐 | 先别说晚安，别把想念留一半",
+              "desc": "文\/大宽 异地不易，但还是节省“晚安”。",
+              "link": "http:\/\/m.wufazhuce.com\/music\/2833?channel=timeline",
+              "imgUrl": "http:\/\/image.wufazhuce.com\/ONE_logo_120_square.png",
+              "audio": ""
+            },
+            "weibo": {
+              "title": "ONE一个《音乐 | 先别说晚安，别把想念留一半》 文\/大宽： 异地不易，但还是节省“晚安”。 阅读全文：http:\/\/m.wufazhuce.com\/music\/2833?channel=weibo 下载ONE一个APP:http:\/\/weibo.com\/p\/100404157874",
+              "desc": "",
+              "link": "http:\/\/m.wufazhuce.com\/music\/2833?channel=weibo",
+              "imgUrl": "",
+              "audio": ""
+            },
+            "qq": {
+              "title": "先别说晚安，别把想念留一半",
+              "desc": "异地不易，但还是节省“晚安”。",
+              "link": "http:\/\/m.wufazhuce.com\/music\/2833?channel=qq",
+              "imgUrl": "http:\/\/image.wufazhuce.com\/ONE_logo_120_square.png",
+              "audio": ""
+            }
+          },
+          "tag_list": []
+        },
+        {
+          "id": "16728",
+          "category": "5",
+          "display_category": "1",
+          "item_id": "1609",
+          "title": "爱艺术，爱爱情",
+          "forward": "爱情走到最后，最重要的，也许也并非是占有某个人，而是生命因此得到的升华吧。",
+          "img_url": "http:\/\/image.wufazhuce.com\/FhpRuHDfqGceBlh64j2LCdxtaizw",
+          "like_count": 0,
+          "post_date": "2018-11-19 06:00:00",
+          "last_update_date": "2018-11-18 20:30:04",
+          "author": {
+            "user_id": "8693204",
+            "user_name": "静岛",
+            "desc": "编剧，作家，中年闲散人员。微博：@不过神仙；公众号：不过神仙和没事妖怪。",
+            "wb_name": "@不过神仙",
+            "is_settled": "0",
+            "settled_type": "0",
+            "summary": "编剧，作家，中年闲散人员。",
+            "fans_total": "6358",
+            "web_url": "http:\/\/image.wufazhuce.com\/FuWwVKsc5G53hTwPeZJ0jHh_MT9m"
+          },
+          "video_url": "",
+          "audio_url": "",
+          "audio_platform": 2,
+          "start_video": "",
+          "has_reading": 0,
+          "volume": 0,
+          "pic_info": "",
+          "words_info": "",
+          "subtitle": "电影:密会",
+          "number": 0,
+          "serial_id": 0,
+          "serial_list": [],
+          "movie_story_id": "4592",
+          "ad_id": 0,
+          "ad_type": 0,
+          "ad_pvurl": "",
+          "ad_linkurl": "",
+          "ad_makettime": "",
+          "ad_closetime": "",
+          "ad_share_cnt": "",
+          "ad_pvurl_vendor": "",
+          "content_id": "1609",
+          "content_type": "5",
+          "content_bgcolor": "#FFFFFF",
+          "share_url": "http:\/\/m.wufazhuce.com\/movie\/1609",
+          "share_info": {
+            "url": "http:\/\/m.wufazhuce.com\/movie\/1609",
+            "image": "http:\/\/image.wufazhuce.com\/FhpRuHDfqGceBlh64j2LCdxtaizw",
+            "title": "「一个」电影: 密会",
+            "content": "\n关于中年女演员的困境，最近有很多文章进行了探讨，对1974年出生的周迅在《如懿传》里被截图浮肿的脸、有细纹的眼部大做文章，关于她表演水准的探讨停留在批评“装嫩”层面上；1979年出生的姚晨在《星空演讲》里坦然而不无苦涩地承认：“明明到了一个演员最成熟的状态，但市场上，适合我这个年龄段演员的戏却越来越少”。\n我国的影视圈对上了35岁的中年女演员是残酷的，她们很难找到适合自己年龄阶段的角色，要不就是借助化妆和微整形维持所谓“少女气”来扮演20多岁的年轻女人，要不就是索性往45岁以上打扮，来扮演“妈妈”或“婆婆”的角色。\n我们的剧本写作也是一样的。中年女人角色九成九是困守于家庭中的欧巴桑，忙于抚养孩子、应对公婆、抵御小三、捍卫婚姻，她们往往是市侩的，是琐碎的，是白米粒、是蚊子血，她们在感情故事中极少承担白月光、红玫瑰的角色，好像闹钟一响，从此宣判，浪漫的爱情和中年女人无关。\n这是一种从现实延伸到艺术创作的年龄歧视和性别歧视，奇怪的是大家对此似乎并无多少不满。\n而在韩剧、日剧中却并非如此，他们关注不同年龄段的女性情感生活，一视同仁地深入展示中年女性幽深、浪漫、激烈的情与欲。\n比如韩剧《密会》。\n\n《密会》播出于2014年，女一是出生于1967年的金喜爱，当时47岁；男一是出生于1986年的刘亚仁，当时28岁。故事如果非要用一句话说，是40多岁的女钢琴教师和20出头的男学生的婚外恋，一段看似俗套的不伦之恋。\n金喜爱是耐看的美女，侧脸有点像俞飞鸿，都是经得起时间的美，正脸圆润一点，比俞飞鸿少点兵气。演出的时候已经47岁，身板挺直没有一点赘肉，但眼角眉梢已经上了年纪，她也并未刻意去隐藏这些岁月的痕迹。\n\n刘亚仁是娃娃脸，看上去只有20出头，尚且保留对世界的无辜和天真。大部分男性在25岁之后就没有了这类无辜和天真，即便好看也带着浓重的尘土气息，他是幸免者，真幸运。“刘亚仁居然让我真的get到了所谓小奶狗的好呢”，我忍不住到处和人说。\n\n金喜爱的角色，和她本人的年纪是契合的，并无装嫩的意图，她不是个善男信女，是寄生于权势，并渴望权势金钱的人，为此选择了无爱的婚姻，能够容忍各种凌辱和压榨，也会在必要的时候伸出齿爪争权夺利。\n刘亚仁的角色，有着钢琴天赋，但家境贫寒，靠着送快递为生，住在老鼠肆虐的蜗居里，拥有的只是年轻和天赋，能给出的也只是中年女人一眼就能看透的，对于现实生活毫无帮助的热情。\n我也算是个编剧，要我来写这么八杆子打不到的两个人相爱，恐怕会设计很多戏剧化的桥段，英雄救美啦，两人被困某处啦，反复的邂逅啦。而这个剧的编剧和导演，只是让他们在一起弹琴。\n先是刘亚仁弹了几首，金喜爱在一边听，没有太多台词，她的反馈也是很平常的，只有眼神和小动作泄露一些内心波动。最后是两人四手联弹一曲，那一幕被拍得极美又极有张力，没有台词，跟着音乐流淌的是两人脸上清晰美好的欲望。\n那一幕就定下了他们的情感，足够了，不需要多解释了，因为对于艺术共通的热爱与领悟，他们在那一幕就达成了彼此最深的理解与欣赏，这种理解和欣赏足够让他们的爱的萌芽成立。\n剧本写得极其自信，也拍摄得极其自信。\n\n这之后，故事兜兜转转，各路人马你方唱罢我登场，该有的桥段都有了，争权夺利，尔虞我诈，只有拍到两人弹琴的场面时是从容不迫的，慢悠悠一个音符一个音符来的，他们在音乐中交流着，而观众被在音乐中流淌的美击中，无法反驳地站在他们的爱情这边。只要故事架构合理，人物设定合理，中年女性一样可以拥有在云端飞扬的爱情，而非仅仅困守在泥淖中的婚姻。\n正是在这份爱带来的勇气之上，金喜爱的角色做出了看似完全违背她性格和人生方向的选择，忍辱负重多年的她，最终在完全可以瓦全的时候，选择了玉碎。\n金喜爱的角色，在法庭上说了一大段让人感动的话，来说明这份爱的分量，而最关键的一句是：“我从来没有从别人那里获得过这种热诚”。\n\n那份热诚，她是从刘亚仁为了她付出的细节中得知的，其实也是从他的演奏中得知的，所以她的选择是完全可以理解的。真切的爱里必然有的热与诚，与世界上零落各地的爱的替代品拉开巨大的距离，是无法视而不见的。\n因为已经知道世界上有这样的爱，知道世界上有这样的美，就不能假装这一切不存在，就不能不鼓起勇气去追随。\n不管是什么样的年纪，什么样的人生经历。\n\n《密会》的好，在于它本质上讲的并不仅仅是一个婚外恋的故事，也不仅仅是大姐姐小奶狗之间的爱，那种爱，重要，但没有那么重要，它讲的更重要的是艺术的净化作用，讲它带给人的美和随之而来摧枯拉朽的勇气。\n艺术究竟有没有这样的力量？\n高超的审美能力和创作能力，的确会给人“自己人”、“师长”的感觉，会激发信任、欣赏、崇拜，乃至爱，但那些，在现实中，往往被利用，被摧折，被侮辱。\n前些日子的“me too”中，我们都看到了，艺术、慈善、学术……各个圈子，只要是圈子，好像都免不了那些肮脏龌龊的事情，性在很多时候，与爱无关，与美无关，甚至于和大可以光明磊落的欲望也无关，而是一种赤裸裸的权力关系。\n“我能，你不敢，所以我可以”。\n现实中，每天，在我们知道的、不知道的角落，都在发生类似让人恶心的事情，简直让人绝望。\n艺术是无辜的，也是无力的，在明确了这一点之后，再来看《密会》，会有着一种看童话故事的哀婉之心。\n好的童话都是这样的，美好，悲壮，不切实际。但人类永远都需要童话。\n\n马克思写过：“宗教是无情世界的有情物，是智慧树上盛开不结果的花，是医治人们心灵痛苦的精神鸦片”。\n我没有什么宗教信仰，对我来说，艺术大概庶几近乎就承担了类似宗教的作用。\n王小波写过：“一个人只拥有此生此世是不够的，他还应该拥有一个诗意的世界”。在我的理解中，诗意存在于真正有着热与诚的爱和理解中，也存在于艺术里。\n爱是两个人的关系，人这一生，未必都有这样的幸运可以遇到真正的爱，遇到了，也未必能够天长日久地拥有下去，人是多变的、复杂的、脆弱的。将诗意寄托于和他人的人际关系上，很容易失望。\n《密会》的结尾，其实也是开放式的。他们两个最终能在一起吗？在一起能够维持多久？不知道，观众愿意他们长长久久，但应该也能接受他们绚烂之后归于平静。因为有的情感，只要存在过，就永远存在，就会给人的生命带来完全不同的空间和可能性。\n但有一点是肯定的，他们即使无法永远拥有彼此，但都能永远拥有艺术给他们的力量，而这一点，正是让他们相爱的本源。\n爱情走到最后，最重要的，也许也并非是占有某个人，而是生命因此得到的升华吧。\n\n没看过《密会》的朋友，如果有时间，有耐心，真的强烈推荐你们看看，我看的时候是很吃惊的，“韩剧居然走在那么前面了”，一个电视剧而已，以这样的篇幅、这样的切入点来刻画中年女性的情感世界，并在此之上，探讨了爱和艺术的力量，这是一件非常美好、非常有勇气的事情。\n真希望早一点在我国的影视剧中看到类似分量、深度的表达，让我们的中年女演员一样有这样的表演空间。\n"
+          },
+          "share_list": {
+            "wx": {
+              "title": "电影 | 爱艺术，爱爱情",
+              "desc": "文\/静岛 爱情走到最后，最重要的也许也并非是占有某个人，而是生命因此得到的升华吧。",
+              "link": "http:\/\/m.wufazhuce.com\/movie\/1609?channel=singlemessage",
+              "imgUrl": "http:\/\/image.wufazhuce.com\/ONE_logo_120_square.png",
+              "audio": ""
+            },
+            "wx_timeline": {
+              "title": "电影 | 爱艺术，爱爱情",
+              "desc": "文\/静岛 爱情走到最后，最重要的也许也并非是占有某个人，而是生命因此得到的升华吧。",
+              "link": "http:\/\/m.wufazhuce.com\/movie\/1609?channel=timeline",
+              "imgUrl": "http:\/\/image.wufazhuce.com\/ONE_logo_120_square.png",
+              "audio": ""
+            },
+            "weibo": {
+              "title": "ONE一个《电影 | 爱艺术，爱爱情》 文\/静岛： 爱情走到最后，最重要的也许也并非是占有某个人，而是生命因此得到的升华吧。 阅读全文：http:\/\/m.wufazhuce.com\/movie\/1609?channel=weibo 下载ONE一个APP:http:\/\/weibo.com\/p\/100404157874",
+              "desc": "",
+              "link": "http:\/\/m.wufazhuce.com\/movie\/1609?channel=weibo",
+              "imgUrl": "",
+              "audio": ""
+            },
+            "qq": {
+              "title": "爱艺术，爱爱情",
+              "desc": "爱情走到最后，最重要的也许也并非是占有某个人，而是生命因此得到的升华吧。",
+              "link": "http:\/\/m.wufazhuce.com\/movie\/1609?channel=qq",
+              "imgUrl": "http:\/\/image.wufazhuce.com\/ONE_logo_120_square.png",
+              "audio": ""
+            }
+          },
+          "tag_list": []
+        }
+      ],
+      "menu": {
+        "vol": "2235",
+        "list": [
+          {
+            "content_type": "1",
+            "content_id": "3568",
+            "title": "闯入者",
+            "tag": {
+              "id": "7",
+              "title": "ONE STORY"
+            }
+          },
+          {
+            "content_type": "1",
+            "content_id": "3567",
+            "title": "没有人不值得被爱",
+            "tag": {
+              "id": "34",
+              "title": "恋爱课"
+            }
+          },
+          {
+            "content_type": "2",
+            "content_id": "786",
+            "serial_list": [
+              "745",
+              "747",
+              "749",
+              "750",
+              "752",
+              "754",
+              "756",
+              "758",
+              "760",
+              "762",
+              "764",
+              "766",
+              "768",
+              "770",
+              "772",
+              "774",
+              "776",
+              "778",
+              "780",
+              "782",
+              "784",
+              "786",
+              "788"
+            ],
+            "title": "无常殿22"
+          },
+          {
+            "content_type": "3",
+            "content_id": "2288",
+            "title": "如何评价当今社会的“锦鲤”文化？"
+          },
+          {
+            "content_type": "4",
+            "content_id": "2833",
+            "title": "先别说晚安，别把想念留一半"
+          },
+          {
+            "content_type": "5",
+            "content_id": "1609",
+            "title": "爱艺术，爱爱情"
+          }
+        ]
+      }
+    }
+  }

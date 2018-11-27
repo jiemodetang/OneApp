@@ -1,0 +1,586 @@
+{
+    "res": 0,
+    "data": {
+      "id": "4962",
+      "weather": {
+        "city_name": "北京",
+        "date": "2018-11-22",
+        "temperature": "5",
+        "humidity": "29%",
+        "climate": "晴",
+        "wind_direction": "2级",
+        "hurricane": "东南风",
+        "icons": {
+          "day": "weather_icon_clear",
+          "night": "weather_icon_clear_night"
+        }
+      },
+      "date": "2018-11-22 06:00:00",
+      "content_list": [
+        {
+          "id": "16758",
+          "category": "0",
+          "display_category": "4",
+          "item_id": "2268",
+          "title": "摄影",
+          "forward": "一个人到底是有多悲观，才能每天过得开开心心。",
+          "img_url": "http:\/\/image.wufazhuce.com\/Fh8QYTv1gZdPs4G2Oxjn_0L5RETA",
+          "like_count": 3977,
+          "post_date": "2018-11-22 06:00:00",
+          "last_update_date": "2018-11-21 16:03:09",
+          "author": {},
+          "video_url": "",
+          "audio_url": "",
+          "audio_platform": 2,
+          "start_video": "",
+          "has_reading": 0,
+          "volume": "VOL.2238",
+          "pic_info": "随你们去",
+          "words_info": "苏更生",
+          "subtitle": "",
+          "number": 0,
+          "serial_id": 0,
+          "serial_list": [],
+          "movie_story_id": 0,
+          "ad_id": 0,
+          "ad_type": 0,
+          "ad_pvurl": "",
+          "ad_linkurl": "",
+          "ad_makettime": "",
+          "ad_closetime": "",
+          "ad_share_cnt": "",
+          "ad_pvurl_vendor": "",
+          "content_id": "2268",
+          "content_type": "0",
+          "content_bgcolor": "",
+          "share_url": "http:\/\/m.wufazhuce.com\/one\/2268",
+          "share_info": {
+            "url": "http:\/\/m.wufazhuce.com\/one\/2268",
+            "image": "http:\/\/image.wufazhuce.com\/Fh8QYTv1gZdPs4G2Oxjn_0L5RETA",
+            "title": "VOL.2238",
+            "content": "一个人到底是有多悲观，才能每天过得开开心心。 by 苏更生"
+          },
+          "share_list": {
+            "wx": {
+              "title": "",
+              "desc": "",
+              "link": "http:\/\/m.wufazhuce.com\/one\/2268?channel=singlemessage",
+              "imgUrl": "",
+              "audio": ""
+            },
+            "wx_timeline": {
+              "title": "",
+              "desc": "",
+              "link": "http:\/\/m.wufazhuce.com\/one\/2268?channel=timeline",
+              "imgUrl": "",
+              "audio": ""
+            },
+            "weibo": {
+              "title": "ONE一个 一个人到底是有多悲观，才能每天过得开开心心。 by 苏更生——苏更生 下载ONE一个APP:http:\/\/weibo.com\/p\/100404157874",
+              "desc": "",
+              "link": "http:\/\/m.wufazhuce.com\/one\/2268?channel=weibo",
+              "imgUrl": "",
+              "audio": ""
+            },
+            "qq": {
+              "title": "",
+              "desc": "",
+              "link": "http:\/\/m.wufazhuce.com\/one\/2268?channel=qq",
+              "imgUrl": "",
+              "audio": ""
+            }
+          },
+          "tag_list": []
+        },
+        {
+          "id": "16774",
+          "category": "1",
+          "display_category": "1",
+          "item_id": "3573",
+          "title": "长夜将尽",
+          "forward": "只要能在光明人生里存在一天，那一天也就是值得的。",
+          "img_url": "http:\/\/image.wufazhuce.com\/FgxtzYzi1TJCz1oUFKX6MLeODFQB",
+          "like_count": 406,
+          "post_date": "2018-11-22 06:00:00",
+          "last_update_date": "2018-11-21 17:59:26",
+          "author": {
+            "user_id": "5553873",
+            "user_name": "梅骁",
+            "desc": "作家，已出版《夜行列车》。",
+            "wb_name": "@梅骁",
+            "is_settled": "0",
+            "settled_type": "0",
+            "summary": "作家，已出版《夜行列车》。",
+            "fans_total": "331",
+            "web_url": "http:\/\/image.wufazhuce.com\/FshALXTpdt6ptn7SAZ9L-0PBbbxe"
+          },
+          "video_url": "",
+          "audio_url": "",
+          "audio_platform": 2,
+          "start_video": "",
+          "has_reading": 0,
+          "volume": 0,
+          "pic_info": "",
+          "words_info": "",
+          "subtitle": "",
+          "number": 0,
+          "serial_id": 0,
+          "serial_list": [],
+          "movie_story_id": 0,
+          "ad_id": 0,
+          "ad_type": 0,
+          "ad_pvurl": "",
+          "ad_linkurl": "",
+          "ad_makettime": "",
+          "ad_closetime": "",
+          "ad_share_cnt": "",
+          "ad_pvurl_vendor": "",
+          "content_id": "3573",
+          "content_type": "1",
+          "content_bgcolor": "#FFFFFF",
+          "share_url": "http:\/\/m.wufazhuce.com\/article\/3573",
+          "share_info": {
+            "url": "http:\/\/m.wufazhuce.com\/article\/3573",
+            "image": "http:\/\/image.wufazhuce.com\/FgxtzYzi1TJCz1oUFKX6MLeODFQB",
+            "title": "长夜将尽 作者\/梅骁",
+            "content": "只要能在光明人生里存在一天，那一天也就是值得的。"
+          },
+          "share_list": {
+            "wx": {
+              "title": "ONE STORY | 长夜将尽",
+              "desc": "文\/梅骁 只要能在光明人生里存在一天，那一天也就是值得的。",
+              "link": "http:\/\/m.wufazhuce.com\/article\/3573?channel=singlemessage",
+              "imgUrl": "http:\/\/image.wufazhuce.com\/ONE_logo_120_square.png",
+              "audio": ""
+            },
+            "wx_timeline": {
+              "title": "ONE STORY | 长夜将尽",
+              "desc": "文\/梅骁 只要能在光明人生里存在一天，那一天也就是值得的。",
+              "link": "http:\/\/m.wufazhuce.com\/article\/3573?channel=timeline",
+              "imgUrl": "http:\/\/image.wufazhuce.com\/ONE_logo_120_square.png",
+              "audio": ""
+            },
+            "weibo": {
+              "title": "ONE一个《ONE STORY | 长夜将尽》 文\/梅骁： 只要能在光明人生里存在一天，那一天也就是值得的。 阅读全文：http:\/\/m.wufazhuce.com\/article\/3573?channel=weibo 下载ONE一个APP:http:\/\/weibo.com\/p\/100404157874",
+              "desc": "",
+              "link": "http:\/\/m.wufazhuce.com\/article\/3573?channel=weibo",
+              "imgUrl": "",
+              "audio": ""
+            },
+            "qq": {
+              "title": "长夜将尽",
+              "desc": "只要能在光明人生里存在一天，那一天也就是值得的。",
+              "link": "http:\/\/m.wufazhuce.com\/article\/3573?channel=qq",
+              "imgUrl": "http:\/\/image.wufazhuce.com\/ONE_logo_120_square.png",
+              "audio": ""
+            }
+          },
+          "tag_list": [
+            {
+              "id": "7",
+              "title": "ONE STORY"
+            }
+          ]
+        },
+        {
+          "id": "16777",
+          "category": "2",
+          "display_category": "1",
+          "item_id": "789",
+          "title": "藏宝记 · 第十一章",
+          "forward": "永远对未来抱着欢迎的心态，没什么可怕，",
+          "img_url": "http:\/\/image.wufazhuce.com\/FmKIPBvWVGtFBuTr3KLpKxJip07-",
+          "like_count": 53,
+          "post_date": "2018-11-22 06:00:00",
+          "last_update_date": "2018-11-22 08:50:10",
+          "author": {
+            "user_id": "4814689",
+            "user_name": "吴浩然",
+            "desc": "青年作家。",
+            "wb_name": "@浩然习比",
+            "is_settled": "0",
+            "settled_type": "0",
+            "summary": "青年作家。",
+            "fans_total": "992",
+            "web_url": "http:\/\/image.wufazhuce.com\/FmOhi8FLn8coSUAU2neYOx6P1w0h"
+          },
+          "video_url": "",
+          "audio_url": "",
+          "audio_platform": 2,
+          "start_video": "",
+          "has_reading": 0,
+          "volume": 0,
+          "pic_info": "",
+          "words_info": "",
+          "subtitle": "连载：第11章",
+          "number": "11",
+          "serial_id": "66",
+          "serial_list": [
+            "769",
+            "771",
+            "773",
+            "775",
+            "777",
+            "779",
+            "781",
+            "783",
+            "785",
+            "787",
+            "789"
+          ],
+          "movie_story_id": 0,
+          "ad_id": 0,
+          "ad_type": 0,
+          "ad_pvurl": "",
+          "ad_linkurl": "",
+          "ad_makettime": "",
+          "ad_closetime": "",
+          "ad_share_cnt": "",
+          "ad_pvurl_vendor": "",
+          "content_id": "789",
+          "content_type": "2",
+          "content_bgcolor": "#FFFFFF",
+          "share_url": "http:\/\/m.wufazhuce.com\/serial\/789",
+          "share_info": {
+            "url": "http:\/\/m.wufazhuce.com\/serial\/789",
+            "image": "http:\/\/image.wufazhuce.com\/FmKIPBvWVGtFBuTr3KLpKxJip07-",
+            "title": "藏宝记 · 第十一章 作者\/吴浩然",
+            "content": "永远对未来抱着欢迎的心态，没什么可怕，"
+          },
+          "share_list": {
+            "wx": {
+              "title": "连载 | 藏宝记 · 第十一章",
+              "desc": "文\/吴浩然 永远对未来抱着欢迎的心态，没什么可怕，",
+              "link": "http:\/\/m.wufazhuce.com\/serial\/789?channel=singlemessage",
+              "imgUrl": "http:\/\/image.wufazhuce.com\/ONE_logo_120_square.png",
+              "audio": ""
+            },
+            "wx_timeline": {
+              "title": "连载 | 藏宝记 · 第十一章",
+              "desc": "文\/吴浩然 永远对未来抱着欢迎的心态，没什么可怕，",
+              "link": "http:\/\/m.wufazhuce.com\/serial\/789?channel=timeline",
+              "imgUrl": "http:\/\/image.wufazhuce.com\/ONE_logo_120_square.png",
+              "audio": ""
+            },
+            "weibo": {
+              "title": "ONE一个《连载 | 藏宝记 · 第十一章》 文\/吴浩然： 永远对未来抱着欢迎的心态，没什么可怕， 阅读全文：http:\/\/m.wufazhuce.com\/serial\/789?channel=weibo 下载ONE一个APP:http:\/\/weibo.com\/p\/100404157874",
+              "desc": "",
+              "link": "http:\/\/m.wufazhuce.com\/serial\/789?channel=weibo",
+              "imgUrl": "",
+              "audio": ""
+            },
+            "qq": {
+              "title": "藏宝记 · 第十一章",
+              "desc": "永远对未来抱着欢迎的心态，没什么可怕，",
+              "link": "http:\/\/m.wufazhuce.com\/serial\/789?channel=qq",
+              "imgUrl": "http:\/\/image.wufazhuce.com\/ONE_logo_120_square.png",
+              "audio": ""
+            }
+          },
+          "tag_list": []
+        },
+        {
+          "id": "16756",
+          "category": "3",
+          "display_category": "1",
+          "item_id": "2291",
+          "title": "为什么我们总是会有这么多的选择困难？",
+          "forward": "选择困难，是因为我们还没准备好放弃。没准备好放弃现在，放弃过去，放弃未来的其他可能。",
+          "img_url": "http:\/\/image.wufazhuce.com\/FjbZrqtmcWj9JvbYl_qzACbTcla8",
+          "like_count": 534,
+          "post_date": "2018-11-22 06:00:00",
+          "last_update_date": "2018-11-21 13:41:45",
+          "author": {
+            "user_id": "8700894",
+            "user_name": "丛非从 答 相遇",
+            "desc": "一个好玩、深邃又实用的心理咨询师，研究关系、情绪和成长，著有《自我成长的力量》、《原来，懂比爱更重要》、《萨提亚模式与自我成长》等。微信公众号：congnotcong，赶紧去把你落在那的灵魂捡回来吧~",
+            "wb_name": "",
+            "is_settled": "0",
+            "settled_type": "0",
+            "summary": "心理咨询师",
+            "fans_total": "6706",
+            "web_url": "http:\/\/image.wufazhuce.com\/Fkh4WEA5zkhIp1otTd9jEF8qXCfD"
+          },
+          "video_url": "",
+          "audio_url": "",
+          "audio_platform": 2,
+          "start_video": "",
+          "has_reading": 0,
+          "volume": 0,
+          "pic_info": "",
+          "words_info": "",
+          "subtitle": "",
+          "number": 0,
+          "serial_id": 0,
+          "serial_list": [],
+          "movie_story_id": 0,
+          "ad_id": 0,
+          "ad_type": 0,
+          "ad_pvurl": "",
+          "ad_linkurl": "",
+          "ad_makettime": "",
+          "ad_closetime": "",
+          "ad_share_cnt": "",
+          "ad_pvurl_vendor": "",
+          "content_id": "2291",
+          "content_type": "3",
+          "content_bgcolor": "#FFFFFF",
+          "share_url": "http:\/\/m.wufazhuce.com\/question\/2291",
+          "share_info": {
+            "url": "http:\/\/m.wufazhuce.com\/question\/2291",
+            "image": "http:\/\/image.wufazhuce.com\/FjbZrqtmcWj9JvbYl_qzACbTcla8",
+            "title": "为什么我们总是会有这么多的选择困难？",
+            "content": "为什么我们总是会有这么多的选择困难？"
+          },
+          "share_list": {
+            "wx": {
+              "title": "问答 | 为什么我们总是会有这么多的选择困难？",
+              "desc": "文\/丛非从 选择困难，是因为我们还没准备好放弃现在，放弃过去，放弃未来的其他可能。",
+              "link": "http:\/\/m.wufazhuce.com\/question\/2291?channel=singlemessage",
+              "imgUrl": "http:\/\/image.wufazhuce.com\/ONE_logo_120_square.png",
+              "audio": ""
+            },
+            "wx_timeline": {
+              "title": "问答 | 为什么我们总是会有这么多的选择困难？",
+              "desc": "文\/丛非从 选择困难，是因为我们还没准备好放弃现在，放弃过去，放弃未来的其他可能。",
+              "link": "http:\/\/m.wufazhuce.com\/question\/2291?channel=timeline",
+              "imgUrl": "http:\/\/image.wufazhuce.com\/ONE_logo_120_square.png",
+              "audio": ""
+            },
+            "weibo": {
+              "title": "ONE一个《问答 | 为什么我们总是会有这么多的选择困难？》 文\/丛非从： 选择困难，是因为我们还没准备好放弃现在，放弃过去，放弃未来的其他可能。 阅读全文：http:\/\/m.wufazhuce.com\/question\/2291?channel=weibo 下载ONE一个APP:http:\/\/weibo.com\/p\/100404157874",
+              "desc": "",
+              "link": "http:\/\/m.wufazhuce.com\/question\/2291?channel=weibo",
+              "imgUrl": "",
+              "audio": ""
+            },
+            "qq": {
+              "title": "为什么我们总是会有这么多的选择困难？",
+              "desc": "选择困难，是因为我们还没准备好放弃现在，放弃过去，放弃未来的其他可能。",
+              "link": "http:\/\/m.wufazhuce.com\/question\/2291?channel=qq",
+              "imgUrl": "http:\/\/image.wufazhuce.com\/ONE_logo_120_square.png",
+              "audio": ""
+            }
+          },
+          "tag_list": []
+        },
+        {
+          "id": "16773",
+          "category": "4",
+          "display_category": "1",
+          "item_id": "2838",
+          "title": "你并不是非得成为更好的人",
+          "forward": "两个人在一起的过程，是不断试错的过程，在不断的失去中，懂得自己真正想要什么，并勇敢地做出决定，这不是自私，而是清醒。",
+          "img_url": "http:\/\/image.wufazhuce.com\/FhytVkp3JBufcvyVYUnCIK8BAgZu",
+          "like_count": 463,
+          "post_date": "2018-11-22 06:00:00",
+          "last_update_date": "2018-11-22 01:26:48",
+          "author": {
+            "user_id": "9741491",
+            "user_name": "The Shaken Bakers",
+            "desc": "Shaken Bakers是来自北约克郡的两兄弟，他们演奏曲风包括从Funk、Soul到90年代cheese。",
+            "wb_name": "",
+            "is_settled": "0",
+            "settled_type": "0",
+            "summary": "北约克郡双人组合",
+            "fans_total": "0",
+            "web_url": "http:\/\/image.wufazhuce.com\/FprpAt_4QO2gzPj2sTN5Pou7B0Yo"
+          },
+          "video_url": "",
+          "audio_url": "",
+          "audio_platform": 2,
+          "start_video": "",
+          "has_reading": 0,
+          "volume": 0,
+          "pic_info": "",
+          "words_info": "",
+          "subtitle": "专辑:Folk Music Playlist",
+          "number": 0,
+          "serial_id": 0,
+          "serial_list": [],
+          "movie_story_id": 0,
+          "ad_id": 0,
+          "ad_type": 0,
+          "ad_pvurl": "",
+          "ad_linkurl": "",
+          "ad_makettime": "",
+          "ad_closetime": "",
+          "ad_share_cnt": "",
+          "ad_pvurl_vendor": "",
+          "content_id": "2838",
+          "content_type": "4",
+          "content_bgcolor": "#FFFFFF",
+          "share_url": "http:\/\/m.wufazhuce.com\/music\/2838",
+          "share_info": {
+            "url": "http:\/\/m.wufazhuce.com\/music\/2838",
+            "image": "http:\/\/image.wufazhuce.com\/FhytVkp3JBufcvyVYUnCIK8BAgZu",
+            "title": "「一个」音乐: The Shaken Bakers Don't Think Twice, It's All Right",
+            "content": "\n26岁生日的前一天，宝拉经历了人生中的第三次失恋。心里虽然难过，但并不像以前那样感到遗憾和不甘了。\n这是她第一次主动提分手，开口的决心与勇气，竟来自前任们，这是她万万没有想到的。\n宝拉的初恋是在十几岁的少年时代，男孩叫吴弋，是隔壁班的数学课代表，有一次在办公室，数学老师交给宝拉一张满分试卷，拜托她转交给试卷的主人。她在隔壁班的后门问：“请帮我叫一下吴戈。”\n后来吴弋总是用这件事嘲笑她：“你不是语文课代表吗？怎么连弋都不认识？”\n但却因此认识了吴弋。\n吴弋是天才型学霸，又比同龄人成熟许多，在宝拉不知道读文读理时，他便已经决定出国留学了。不过这是两人在一起半年后，宝拉才知道的事。吴弋说得那么风淡云轻，仿佛美国与中国只是家到学校的距离而已。后来宝拉也觉得很奇怪，为什么当时自己的第一反应不是难过，而是觉得或许努力一下，自己也可以和吴弋一起出国呢？\n宝拉向来是个行动派，她花费了大量时间学英语准备雅思，几乎是自欺欺人般，故意忽略掉自己根本没钱出国的事实。\n高中那三年，宝拉和吴弋却几乎再也没提过出国这件事。他们照常在周末的晚上煲电话粥，在学校时一起去食堂吃饭，晚自习下课后一起去操场走几圈再依依不舍地回宿舍。\n高考成绩出来后，宝拉英语差两分满分，这是吴弋留给她的最后一份礼物。她送吴弋去机场时，还开玩笑让他好好打工，买机票请她过去玩。两人打打闹闹着说了再见。\n后来宝拉自然没有去美国玩，她也不太记得究竟是从哪一天开始两人不再联系，但当时的确没有想象中伤心，可能是两年前就做好了心理准备吧。后来大三时，她交了新男友，男友问她是什么时候和前任分手的，她愣了很久，竟然说不出答案来。\n第二位男友比宝拉大三岁，名字里仍然有一个宝拉不认识的字，马翊迅。\n马翊迅在香港读完研究生之后，选择了留港工作。宝拉暑期去香港参加付费实习时，就在马翊迅所在的公司。两人在电梯间遇到过好几次，有一次一前一后在楼下买咖啡，马翊迅终于忍不住向她搭讪：“你是重庆人吧？”\n她用家乡话发微信语音时被他听见了，原来两人是老乡，就这样互留了联系方式。\n离开香港后，两人常常联系。宝拉好奇真正的香港生活是否真的像TVB剧里演的一样，马翊迅则鼓励宝拉毕业后去更大的城市体验生活。有时候宝拉会有一种错觉，仿佛和她说话的是另一个吴弋，因为他也常常鼓励她往前再踏出一步。\n两人就这样聊了大半年，有一晚马翊迅去参加一个晚宴，他被提名一个奖项，最终并未获奖。他发来别人拿着奖杯的照片，宝拉正打算安慰他时，他又发来文字：“不知道为什么我并没有那么失望，或许是觉得有你在。要是你真的在我身边就好了。”\n窗户纸便是在那晚捅破的。\n好友知道她与一个只见过一次，并且异地的人在一起后，感到不可思议。连她自己都觉得自己是疯了，但与马翊迅在一起，她的确感到很快乐，觉得自己在迈向那个更好的自我。\n在一起没多久后，马翊迅受不了在港压力，辞职回到了老家休息。宝拉终于又和他见面了。\n他在重庆待了大半个月，那段日子里宝拉带他去了很多自己平日喜欢待的地方。马翊迅给她讲在香港的日日夜夜，虽然辛苦，但回想起来觉得都没有白过。他暂时不会再回去了，但他知道自己最后还是会回到那里。\n马翊迅又问她毕业后的打算。她随口说，可能读书吧。马翊迅却认真起来，帮她挑选学校，鼓励她去国外或者香港，并建议她以后去一线城市生活。\n“但我绩点不太够。“宝拉想快点结束这个话题。\n“我当时绩点也不太好，你可以用好的实习经历去弥补。我可以给你推荐实习公司，北京有挺多机会的。“\n宝拉不想再聊下去。她知道马翊迅是为她好，也知道这样做自己的确会变得更好，而这或多或少也是她想要和马翊迅在一起的原因，但她以后根本就不想去香港工作，并不是每个人都非得在大城市才能实现人生目标。宝拉喜欢重庆的江湖气，喜欢这座城市的生活节奏，喜欢在这里如鱼得水的自己，她唯一的野心就是活得开心。\n她突然想起，当年吴弋会不会就是因为这样才和她断了联系的呢？他或许比她更早发现，其实两个人根本就不是一个世界的吧？\n马翊迅离开重庆后，开始了自己的旅行计划。他给宝拉发来很多照片，在日本环球影城被雨淋得湿透了的自己，在韩国街头偷拍的漂亮女生，在台湾环岛时看见的日落，但他去西班牙后便悄无声息了。\n宝拉有种不祥的预感，不断地给他发消息，打语音电话，终于联系上他时，他却开始给她讲自己在西班牙读书的表弟的故事。\n“他前段时间和自己在国内的女友分手了，因为两个人想要的东西不一样。我以前以为你想要的和我是相似的，但面对面在一起的日子却告诉我好像不是这样的。我不想等到我真的要回到香港，而你不愿意的那天到来了，才说再见。所以，长痛不如短痛，你可以怪我。对不起。“\n就是这样的分手。宝拉安慰自己，至少下一个男朋友问起自己是什么时候分手的，自己可以给出一个明确的答案了。\n大学毕业后，宝拉听从内心留在了重庆。有时候她想起马翊迅看着自己叹气的样子，更加觉得分手是件好事。\n她的第三任男友是工作上的合作伙伴，业余喜爱摄影，只是宝拉没想到两人在一起后，他就辞掉工作，全身心投入到摄影中去了。\n男友花掉自己所有的积蓄，游走在各国之间，拍摄自己关注的主题。他喜欢巴西摄影师塞巴斯蒂昂·萨尔加多，希望也成为那样一个关注底层社会的摄影师，这是他28年以来，终于找到的人生目标。\n但这注定也是一段无疾而终的恋情。\n宝拉很开心男友能去实践自己的梦想，她总是喜欢那种有生活理想的人，能够见证他们实践理想的过程，让她也有一种成长感。但好景不长，男友的积蓄很快用光，宝拉拿出了准备以后开店的钱来支持他。可是杯水车薪，男友的自尊心也不允许自己再开口向宝拉借钱了。终于在一次聚会上，宝拉得知男友向每位朋友都借了钱后，决定分手了。在别人的梦想里，她只想是一个小小的参与者，而不是无私的奉献者。她做不到一直付出，只为实现他人的梦想，她还有自己的人生要过，她更不想男友面对自己时剩下的只有愧疚。\n分手的那一刻，她发现自己也成为了吴弋和马翊迅，因为懂得自己更想要什么，所以毫不拖拉地和现状告别。\n26岁了，宝拉遇到的每个人都很好，有的教会了她成为更好的人，而有的教会她并不是每个人都非得成为更好的人。两个人在一起的过程，是不断试错的过程，在不断的失去中，懂得自己真正想要什么，并勇敢地做出决定。这不是自私，而是清醒。最后没有和他们走下去，不是运气的原因，只是两个在一起的人的原因，因为彼此有一方很清楚，自己想要的未来并不是对方的理想未来。\n宝拉记得吴弋最喜欢的数学家莱布尼茨曾说过，一切在创始之初就决定好了。既然是这样的话，宝拉想，或许自己只需要等待，那个和自己契合的人迟早会出现的，而当他到来时，她不仅要问问自己，这是你想要的吗？还要问问对方，你真的决定好了吗？\n文\/羊小妞\n"
+          },
+          "share_list": {
+            "wx": {
+              "title": "音乐 | 在不断的失去中，找到自己",
+              "desc": "文\/羊小妞 那个和自己契合的人迟早会出现的。",
+              "link": "http:\/\/m.wufazhuce.com\/music\/2838?channel=singlemessage",
+              "imgUrl": "http:\/\/image.wufazhuce.com\/ONE_logo_120_square.png",
+              "audio": ""
+            },
+            "wx_timeline": {
+              "title": "音乐 | 在不断的失去中，找到自己",
+              "desc": "文\/羊小妞 那个和自己契合的人迟早会出现的。",
+              "link": "http:\/\/m.wufazhuce.com\/music\/2838?channel=timeline",
+              "imgUrl": "http:\/\/image.wufazhuce.com\/ONE_logo_120_square.png",
+              "audio": ""
+            },
+            "weibo": {
+              "title": "ONE一个《音乐 | 在不断的失去中，找到自己》 文\/羊小妞： 那个和自己契合的人迟早会出现的。 阅读全文：http:\/\/m.wufazhuce.com\/music\/2838?channel=weibo 下载ONE一个APP:http:\/\/weibo.com\/p\/100404157874",
+              "desc": "",
+              "link": "http:\/\/m.wufazhuce.com\/music\/2838?channel=weibo",
+              "imgUrl": "",
+              "audio": ""
+            },
+            "qq": {
+              "title": "在不断的失去中，找到自己",
+              "desc": "那个和自己契合的人迟早会出现的。",
+              "link": "http:\/\/m.wufazhuce.com\/music\/2838?channel=qq",
+              "imgUrl": "http:\/\/image.wufazhuce.com\/ONE_logo_120_square.png",
+              "audio": ""
+            }
+          },
+          "tag_list": []
+        },
+        {
+          "id": "16775",
+          "category": "5",
+          "display_category": "1",
+          "item_id": "1614",
+          "title": "海上花，镜中风景",
+          "forward": "只要世间还有“情爱”这张无形的网，只要人还依然有欲望，有软肋，那么就不能逃离互相追逐，互相攻陷，互相欺骗的戏码。",
+          "img_url": "http:\/\/image.wufazhuce.com\/FquZbruT_nwd9L0YYy1Y5uJcUZ2-",
+          "like_count": 0,
+          "post_date": "2018-11-22 06:00:00",
+          "last_update_date": "2018-11-21 21:14:32",
+          "author": {
+            "user_id": "7867217",
+            "user_name": "MENG",
+            "desc": "MENG，MeRead读书会创办人，不务正业写作者。",
+            "wb_name": "@萌之刺刺",
+            "is_settled": "0",
+            "settled_type": "0",
+            "summary": "公众号：MeRead",
+            "fans_total": "3372",
+            "web_url": "http:\/\/image.wufazhuce.com\/FtmFi0r5J7VmcqNwE-PyOxxm91LL"
+          },
+          "video_url": "",
+          "audio_url": "",
+          "audio_platform": 2,
+          "start_video": "",
+          "has_reading": 0,
+          "volume": 0,
+          "pic_info": "",
+          "words_info": "",
+          "subtitle": "电影:海上花",
+          "number": 0,
+          "serial_id": 0,
+          "serial_list": [],
+          "movie_story_id": "4597",
+          "ad_id": 0,
+          "ad_type": 0,
+          "ad_pvurl": "",
+          "ad_linkurl": "",
+          "ad_makettime": "",
+          "ad_closetime": "",
+          "ad_share_cnt": "",
+          "ad_pvurl_vendor": "",
+          "content_id": "1614",
+          "content_type": "5",
+          "content_bgcolor": "#FFFFFF",
+          "share_url": "http:\/\/m.wufazhuce.com\/movie\/1614",
+          "share_info": {
+            "url": "http:\/\/m.wufazhuce.com\/movie\/1614",
+            "image": "http:\/\/image.wufazhuce.com\/FquZbruT_nwd9L0YYy1Y5uJcUZ2-",
+            "title": "「一个」电影: 海上花",
+            "content": "\n看了侯孝贤导演那么多青涩清纯的台湾电影，竟然最喜欢的是他1998年根据清人吴语小说《海上花列传》而拍摄的一部讲着上海方言的《海上花》。\n《海上花列传》曾经由张爱玲翻译成大众能读懂的国语，它有上下两卷，内容繁杂，讲述晚清上海英租界的一所高等妓院中的日常风景。而侯孝贤则取其一瓢，摘下三朵花——三个倌人（妓院中称妓女为倌人，有身份的倌人要称“先生”）的片段掠影，将书卷转化为一幅不断展开，回味无穷的画卷。\n\n电影中大面积的红色运用是留下印象最深的，中西合璧的家具，晶莹的灯具、玲珑的花瓶摆设在一片香艳的红色之下各安其位，精致不足以形容，是奢靡。人物就在这红色剧场之中粉墨登场，这红色剧场有一个名字：长三书寓。名字很别致，很上海。\n\n第一朵花：【荟芳里】沈小红\n沈小红（羽田美智子饰演）的恩客是王莲生（梁朝伟饰演），片子一开始就是诸公为王莲生接风的场景，而妓院内第一件纷争就是由王莲生而起。王莲生做了沈小红多年，有心娶她，可沈小红却总是找借口，两人已经是老情人，还时时闹别扭，结果王莲生就去找了别的倌人——张蕙贞。这么一来，沈小红气急败坏，去打了张蕙贞，闹得不可开交。王莲生仍然回到沈小红这里，被妈妈一顿数落，他只是头低低的，也不辩解几句，似乎是词穷，似乎是真有愧疚。等到妈妈走了，他和沈小红两人默然相对，他也委屈，她也委屈，他一句“不要生气了好不好”，早就让沈小红心软，也早就暴露了他内心的软弱。感慨一下，梁朝伟不管在哪里，都有这种让女人心软的能力。\n\n\n第二朵花：【公阳里】周双珠\n周双珠是刘嘉玲饰演，她点个水烟亦浑身是戏。周双珠这个角色沉稳，识大体，有分寸，她调停双宝双珠两个的纠纷自有一套办法，和客人和妈妈和姐妹都处得不错，是典型的上海女人，精明又不失大方。她很清醒，知道作为女人的命运：在做倌人的时候再风光也都是有限的，过两年都是要嫁人的。因此她劝双玉，这么想想，就能够退一步海阔天空了。刘嘉玲的上海话讲得也比另外两位好，可能和她原本是苏州人有关系。听她讲上海话，有种闲闲的蜻蜓点水的舒适之感，不着痕迹。\n\n\n第三朵花：【尚仁里】黄翠凤\n黄翠凤（李嘉欣饰演）不似周双珠温柔，她厉害泼辣，气焰高过妈妈，她的妈妈赚了钱赔给小白脸，付不起裁缝帐要来问她借，她借是借，还是要教训一顿才罢。诸三姐手下的诸金花（伊能静饰演）被她妈妈打了，来向她哭诉，她得知了来龙去脉之后将她一顿痛骂，毫不留情地赶出去。最后她为自己赎身，让账房先生一件一件首饰清点干净，付清1000大洋赎身费，才对妈妈娓娓劝说，让她晚年不要再养小白脸，存着钱再买一个讨人，培养好了，后半辈子有靠。她这么说看似有情，其实无情，言语里是从此与你毫无瓜葛，以后不要再来找我。妈妈一转身，她便说：她如果是好人，也不会做这一行了。真是冷到骨子里。\n\n这红色幕帘之下的世界，一日复一日上演着相似的剧码，不会平淡无奇，也不会多么惊涛骇浪。就算双玉为了朱家五少爷说要娶她最后又不能娶她，就骗他吃鸦片酒同归于尽，也不过是演演戏，闹一场。最后由周双珠出谋划策让五少爷赔了一千大洋，说是替双玉挽回面子，又给她嫁妆，但其实也是配合演戏，乘机讹一笔。在这个红色剧场，一切都是演戏，一切又不止是演戏，因为所有人都被困在里面，无法逃离。\n\n王莲生发现沈小红姘戏子，一气之下娶了张蕙贞，张蕙贞样样不比沈小红差，甚至不愿意讲沈小红的坏话，可是王莲生娶回去仍然是不满意，还是打了她，跑到沈小红这里来。两人有一肚子吐不出的苦水，你才发现这里面只有这两人似乎是真心相爱的。但是爱是什么呢？互相粘缠在一起，扯不断，拉不开，用朱霭人的话说简直是——作孽。\n难道客人不知道倌人是做生意的？是心知肚明的；难道倌人不知道客人是来消费的，玩玩的？也当然一清二楚，只是偏偏台面上还要做足戏份，让你觉得是有情有义，又爱又恨，是否这样才过瘾，这样才是尽职尽责地演了一场戏？在这场戏中，最有趣的部分在于，客人未必占上风，他们常常受困于情网抑或面子，画地为牢，成为戏中受侮辱受损害的一方，如王莲生，朱家五少爷，另一方面，倌人就算是做到了红牌，也不过挣了一个体面风光，就算能够成功赎身，到最后还是要依附于一个男人才算圆满，因此这场戏中甚至没有真正的赢家。\n\n看完整部戏，你发现你并没有走出红色背景之外，侯孝贤说他本来想拍一些室外，后来到上海看了几次，就觉得不要了，因为室内更能营造出一种压抑的气氛，推而广之，你可以将这红色背景推及整个世界，整个存在就像一块无法走出的帘幕，电影结尾，五少爷还在一个劲儿问朱霭人：（双玉）嫁给啥人啊？朱霭人不耐烦地回答：嫁人的事情么最麻烦了，不要问了，这次事情摆平就不错了。然后是房间里朱霭人和倌人各自点了水烟，默默抽着，镜头也暗下去——看似结局而又并非是结局，你知道这故事可以像评弹的调子咿咿呀呀一直演下去，一直循环下去，没有穷尽。\n\n从海上花这面镜中，似乎看到的是我们情感中时时相似的处境，尽管时代不同了，环境也不同了，却心有戚戚焉，只要世间还有“情爱”这张无形的网，只要人还依然有欲望，有软肋，那么就不能逃离互相追逐，互相攻陷，互相欺骗的戏码，或许那种情爱的消耗还能给你一种温暖的感觉，一种被需要的安全感，但真相却是我们为之付出了时间的代价，心的代价，甚至是我们的一生。\n"
+          },
+          "share_list": {
+            "wx": {
+              "title": "电影 | 海上花，镜中风景",
+              "desc": "文\/MENG 所有人都被困在里面，无法逃离。",
+              "link": "http:\/\/m.wufazhuce.com\/movie\/1614?channel=singlemessage",
+              "imgUrl": "http:\/\/image.wufazhuce.com\/ONE_logo_120_square.png",
+              "audio": ""
+            },
+            "wx_timeline": {
+              "title": "电影 | 海上花，镜中风景",
+              "desc": "文\/MENG 所有人都被困在里面，无法逃离。",
+              "link": "http:\/\/m.wufazhuce.com\/movie\/1614?channel=timeline",
+              "imgUrl": "http:\/\/image.wufazhuce.com\/ONE_logo_120_square.png",
+              "audio": ""
+            },
+            "weibo": {
+              "title": "ONE一个《电影 | 海上花，镜中风景》 文\/MENG： 所有人都被困在里面，无法逃离。 阅读全文：http:\/\/m.wufazhuce.com\/movie\/1614?channel=weibo 下载ONE一个APP:http:\/\/weibo.com\/p\/100404157874",
+              "desc": "",
+              "link": "http:\/\/m.wufazhuce.com\/movie\/1614?channel=weibo",
+              "imgUrl": "",
+              "audio": ""
+            },
+            "qq": {
+              "title": "海上花，镜中风景",
+              "desc": "所有人都被困在里面，无法逃离。",
+              "link": "http:\/\/m.wufazhuce.com\/movie\/1614?channel=qq",
+              "imgUrl": "http:\/\/image.wufazhuce.com\/ONE_logo_120_square.png",
+              "audio": ""
+            }
+          },
+          "tag_list": []
+        }
+      ],
+      "menu": {
+        "vol": "2238",
+        "list": [
+          {
+            "content_type": "1",
+            "content_id": "3573",
+            "title": "长夜将尽",
+            "tag": {
+              "id": "7",
+              "title": "ONE STORY"
+            }
+          },
+          {
+            "content_type": "2",
+            "content_id": "789",
+            "serial_list": [
+              "769",
+              "771",
+              "773",
+              "775",
+              "777",
+              "779",
+              "781",
+              "783",
+              "785",
+              "787",
+              "789"
+            ],
+            "title": "藏宝记 · 第十一章"
+          },
+          {
+            "content_type": "3",
+            "content_id": "2291",
+            "title": "为什么我们总是会有这么多的选择困难？"
+          },
+          {
+            "content_type": "4",
+            "content_id": "2838",
+            "title": "你并不是非得成为更好的人"
+          },
+          {
+            "content_type": "5",
+            "content_id": "1614",
+            "title": "海上花，镜中风景"
+          }
+        ]
+      }
+    }
+  }
